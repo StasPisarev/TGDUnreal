@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\unrealeditor\\inc\\techgd\\myassetmanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\techgdeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\unrealeditor\\development\\techgd\\definitions.techgd.h",
+            "c:\\work\\unrealenpr\\tgdunreal\\techgd\\source\\techgd\\public\\myassetmanager.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanager.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanagertypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\assetmanagertypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\assetregistry\\public\\assetregistrymodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\iassetregistry.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\genericplatform\\genericplatformchunkinstall.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\contentencryptionconfig.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\assetmanager.generated.h",
+            "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\unrealeditor\\inc\\techgd\\myassetmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

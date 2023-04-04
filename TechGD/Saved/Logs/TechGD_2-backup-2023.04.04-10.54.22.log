@@ -1,0 +1,2017 @@
+﻿Log file open, 04/04/23 14:54:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18172)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TechGD
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Work\UnrealEnPr\TGDUnreal\TechGD\TechGD.uproject -run=VisualStudioTools -unattended -noshadercompile -nosound -nullrhi -nocpuprofilertrace -nocrashreports -nosplash -ddc=noshared -output=C:\Users\stasb\AppData\Local\Temp\tmp54CB.tmp""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1413] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="aab15110491ccb390a9913a4ece7db68"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.315802
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +4:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-2E6B606D41FD70EB173936B4AF6A5DCF
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin VisualStudioTools
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GameplayAbilities
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1413] (), CPU: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  C:\Work\UnrealEnPr\TGDUnreal\TechGD\TechGD.uproject -run=VisualStudioTools -unattended -noshadercompile -nosound -nullrhi -nocpuprofilertrace -nocrashreports -nosplash -ddc=noshared -output=C:\Users\stasb\AppData\Local\Temp\tmp54CB.tmp
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.04.04-10.54.18:835][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.04.04-10.54.18:835][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.04.04-10.54.18:836][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.04.04-10.54.18:839][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.04-10.54.18:839][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.04.04-10.54.18:839][  0]LogHAL: Display: Platform has ~ 16 GB [17119121408 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.04-10.54.18:839][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.04.04-10.54.18:839][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.04.04-10.54.18:839][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.04-10.54.18:839][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.04.04-10.54.18:839][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Work/UnrealEnPr/TGDUnreal/TechGD/Saved/Config/WindowsEditor/Editor.ini]
+[2023.04.04-10.54.18:839][  0]LogInit: Computer: STAS-PC
+[2023.04.04-10.54.18:839][  0]LogInit: User: stasb
+[2023.04.04-10.54.18:839][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.04.04-10.54.18:839][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.04-10.54.18:839][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.04.04-10.54.18:839][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.04.04-10.54.18:839][  0]LogMemory: Process Physical Memory: 237.48 MB used, 237.48 MB peak
+[2023.04.04-10.54.18:839][  0]LogMemory: Process Virtual Memory: 180.24 MB used, 180.24 MB peak
+[2023.04.04-10.54.18:839][  0]LogMemory: Physical Memory: 10193.23 MB used,  6132.83 MB free, 16326.07 MB total
+[2023.04.04-10.54.18:839][  0]LogMemory: Virtual Memory: 20453.05 MB used,  9185.01 MB free, 29638.07 MB total
+[2023.04.04-10.54.18:839][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.04.04-10.54.18:846][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.04-10.54.18:862][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.04-10.54.18:862][  0]LogInit: Using OS detected language (ru-RU).
+[2023.04.04-10.54.18:862][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.04.04-10.54.18:867][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2023.04.04-10.54.18:867][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.04.04-10.54.18:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.04.04-10.54.18:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.04.04-10.54.18:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.04.04-10.54.18:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.04.04-10.54.18:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.04.04-10.54.18:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.04.04-10.54.19:022][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.04.04-10.54.19:030][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.04.04-10.54.19:030][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.04-10.54.19:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.04-10.54.19:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.04.04-10.54.19:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.04.04-10.54.19:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.04-10.54.19:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.04-10.54.19:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.04-10.54.19:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.04.04-10.54.19:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.04-10.54.19:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.04-10.54.19:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.04.04-10.54.19:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.04.04-10.54.19:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.04.04-10.54.19:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.04-10.54.19:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.04-10.54.19:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.04-10.54.19:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.04.04-10.54.19:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.04-10.54.19:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.04-10.54.19:059][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.04.04-10.54.19:066][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.04-10.54.19:070][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.04.04-10.54.19:070][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.04.04-10.54.19:070][  0]LogTargetPlatformManager:   ADPCM
+[2023.04.04-10.54.19:070][  0]LogTargetPlatformManager:   PCM
+[2023.04.04-10.54.19:073][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.04.04-10.54.19:073][  0]LogTargetPlatformManager:   BINKA
+[2023.04.04-10.54.19:073][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.04.04-10.54.19:073][  0]LogTargetPlatformManager:   OGG
+[2023.04.04-10.54.19:073][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.04.04-10.54.19:073][  0]LogTargetPlatformManager:   OPUS
+[2023.04.04-10.54.19:114][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   SF_METAL
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.04.04-10.54.19:120][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.04.04-10.54.19:124][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.04.04-10.54.19:124][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.04.04-10.54.19:124][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.04.04-10.54.19:124][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.04.04-10.54.19:124][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.04.04-10.54.19:124][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.04.04-10.54.19:124][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.04.04-10.54.19:124][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.04-10.54.19:124][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Work/UnrealEnPr/TGDUnreal/TechGD/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.04.04-10.54.19:124][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.04-10.54.19:124][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Work/UnrealEnPr/TGDUnreal/TechGD/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.04.04-10.54.19:124][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.04-10.54.19:127][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Work/UnrealEnPr/TGDUnreal/TechGD/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.04-10.54.19:127][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.04.04-10.54.19:133][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.01 seconds
+[2023.04.04-10.54.19:133][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1228.12MBs, RandomWriteSpeed=191.86MBs. Assigned SpeedClass 'Local'
+[2023.04.04-10.54.19:134][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2023.04.04-10.54.19:139][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.04.04-10.54.19:139][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.04.04-10.54.19:153][  0]LogAssetRegistry: FAssetRegistry took 0.0102 seconds to start up
+[2023.04.04-10.54.19:159][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.04.04-10.54.19:333][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.04.04-10.54.19:600][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.04-10.54.19:600][  0]LogDeviceProfileManager: Active device profile: [00000AAA1306BEC0][00000AAA0EE0A000 50] WindowsEditor
+[2023.04.04-10.54.19:600][  0]LogDeviceProfileManager: Profiles: [00000AAA1306B980][00000AAA0EE0C800 50] Windows, [00000AAA1306BEC0][00000AAA0EE0A000 50] WindowsEditor, [00000AAA13067FC0][00000AAA02F25000 50] WindowsServer, [00000AAA13069BC0][00000AAA13480000 50] WindowsClient, [00000AAA1306B600][00000AAA13485000 50] IOS, [00000AAA13068180][00000AAA13487800 50] iPadAir2, [00000AAA1306A800][00000AAA1348C800 50] IPadPro, [00000AAA1306B7C0][00000AAA1348A000 50] iPadAir3, [00000AAA13068A40][00000AAA0EE05000 50] iPadAir4, [00000AAA1306B280][00000AAA134A0000 50] iPadMini4, [00000AAA1306C240][00000AAA134A5000 50] iPadMini5, [00000AAA13067C40][00000AAA134A7800 50] iPadMini6, [00000AAA1306EC40][00000AAA13482800 50] iPhone6S, [00000AAA1306EFC0][00000AAA134AC800 50] iPhone7, [00000AAA1306F340][00000AAA134AA000 50] iPodTouch7, [00000AAA1306C400][00000AAA134D0000 50] iPhone6SPlus, [00000AAA1306E1C0][00000AAA134D5000 50] iPhone7Plus, [00000AAA1306E8C0][00000AAA134D7800 50] iPhoneSE, [00000AAA13068F80][00000AAA134DA000 50] iPhone8, [00000AAA13069300][00000AAA134DC800 50] iPhone8Plus, [00000AAA1306E380][00000AAA134A2800 50] iPhoneX, [00000AAA13068880][00000AAA134E0000 50] iPhoneXS, [00000AAA1306AB80][00000AAA134E5000 50] iPhoneXSMax, [00000AAA13067000][00000AAA134E7800 50] iPhoneXR, [00000AAA1306D200][00000AAA134EA000 50] iPhone11, [00000AAA13067E00][00000AAA134EC800 50] iPhone11Pro, [00000AAA130678C0][00000AAA134D2800 50] iPhone11ProMax, [00000AAA13068C00][00000AAA134F0000 50] iPhoneSE2, [00000AAA1306A640][00000AAA134F5000 50] iPhone12Mini, [00000AAA1306C5C0][00000AAA134F7800 50] iPhone12, [00000AAA13066580][00000AAA134FA000 50] iPhone12Pro, [00000AAA13067700][00000AAA134FC800 50] iPhone12ProMax, [00000AAA1306C080][00000AAA134E2800 50] iPhone13Mini, [00000AAA1306AD40][00000AAA13500000 50] iPhone13, [00000AAA13066E40][00000AAA13505000 50] iPhone13Pro, [00000AAA1306DAC0][00000AAA13507800 50] iPhone13ProMax, [00000AAA1306E000][00000AAA1350A000 50] iPadPro105, [00000AAA13069F40][00000AAA1350C800 50] iPadPro129, [00000AAA1306D3C0][00000AAA134F2800 50] iPadPro97, [00000AAA1306BD00][00000AAA13520000 50] iPadPro2_129, [00000AAA13065E80][00000AAA13525000 50] iPad5, [00000AAA130694C0][00000AAA13527800 50] iPad6, [00000AAA1306D900][00000AAA1352A000 50] iPad7, [00000AAA1306F500][00000AAA1352C800 50] iPad8, [00000AAA1306CB00][00000AAA13502800 50] iPad9, [00000AAA1306E700][00000AAA13540000 50] iPadPro11, [00000AAA130671C0][00000AAA13545000 50] iPadPro2_11, [00000AAA1306C940][00000AAA13547800 50] iPadPro3_11, [00000AAA130663C0][00000AAA1354A000 50] iPadPro3_129, [00000AAA13066740][00000AAA1354C800 50] iPadPro4_129, [00000AAA1306A9C0][00000AAA13522800 50] iPadPro5_129, [00000AAA1306F6C0][00000AAA13550000 50] AppleTV, [00000AAA13069140][00000AAA13555000 50] AppleTV4K, [00000AAA1306D040][00000AAA13557800 50] TVOS, [00000AAA135808C0][00000AAA1355C800 50] Mac, [00000AAA13580C40][00000AAA1355A000 50] MacEditor, [00000AAA135824C0][00000AAA13542800 50] MacClient, [00000AAA13580A80][00000AAA13560000 50] MacServer, [00000AAA13584980][00000AAA13567800 50] Linux, [00000AAA13584D00][00000AAA13565000 50] LinuxEditor, [00000AAA135801C0][00000AAA1356A000 50] LinuxArm64Editor, [00000AAA13584440][00000AAA1356C800 50] LinuxArm64, [00000AAA13582D80][00000AAA13552800 50] LinuxClient, [00000AAA13583F00][00000AAA13570000 50] LinuxArm64Client, [00000AAA13582680][00000AAA13575000 50] LinuxServer, [00000AAA13584B40][00000AAA13577800 50] LinuxArm64Server, [00000AAA135847C0][00000AAA1357A000 50] Android, [00000AAA13583640][00000AAA1357C800 50] Android_Preview_OpenGL, [00000AAA13583D40][00000AAA13562800 50] Android_Preview_Vulkan, [00000AAA135832C0][00000AAA13590000 50] Android_Low, [00000AAA13580700][00000AAA13595000 50] Android_Mid, [00000AAA13582840][00000AAA13597800 50] Android_High, [00000AAA13580000][00000AAA1359A000 50] Android_Default, [00000AAA135839C0][00000AAA1359C800 50] Android_Adreno4xx, [00000AAA13583480][00000AAA13572800 50] Android_Adreno5xx_Low, [00000AAA13582140][00000AAA135A0000 50] Android_Adreno5xx, [00000AAA13581F80][00000AAA135A5000 50] Android_Adreno6xx, [00000AAA13582A00][00000AAA135A7800 50] Android_Adreno6xx_Vulkan, [00000AAA13581500][00000AAA135AA000 50] Android_Adreno7xx, [00000AAA13580FC0][00000AAA135AC800 50] Android_Adreno7xx_Vulkan, [00000AAA13584600][00000AAA13592800 50] Android_Mali_T6xx, [00000AAA13585780][00000AAA135B0000 50] Android_Mali_T7xx, [00000AAA13582F40][00000AAA135B5000 50] Android_Mali_T8xx, [00000AAA13585CC0][00000AAA135B7800 50] Android_Mali_G71, [00000AAA13585080][00000AAA135BA000 50] Android_Mali_G72, [00000AAA13581880][00000AAA135BC800 50] Android_Mali_G72_Vulkan, [00000AAA13581180][00000AAA135A2800 50] Android_Mali_G76, [00000AAA13581DC0][00000AAA13530000 50] Android_Mali_G76_Vulkan, [00000AAA13584280][00000AAA13535000 50] Android_Mali_G77, [00000AAA135840C0][00000AAA13537800 50] Android_Mali_G77_Vulkan, [00000AAA13586740][00000AAA1353A000 50] Android_Mali_G78, [00000AAA13581A40][00000AAA1353C800 50] Android_Mali_G78_Vulkan, [00000AAA13586C80][00000AAA135B2800 50] Android_Mali_G710, [00000AAA13586040][00000AAA135C0000 50] Android_Mali_G710_Vulkan, [00000AAA13580540][00000AAA135C5000 50] Android_Xclipse_920, [00000AAA13585240][00000AAA135C7800 50] Android_Xclipse_920_Vulkan, [00000AAA13585940][00000AAA135CA000 50] Android_Vulkan_SM5, [00000AAA13583100][00000AAA135CC800 50] Android_PowerVR_G6xxx, [00000AAA13587700][00000AAA13532800 50] Android_PowerVR_GT7xxx, [00000AAA13581C00][00000AAA135D0000 50] Android_PowerVR_GE8xxx, [00000AAA13587C40][00000AAA135D5000 50] Android_PowerVR_GM9xxx, [00000AAA13587000][00000AAA135D7800 50] Android_PowerVR_GM9xxx_Vulkan, [00000AAA13585B00][00000AAA135DA000 50] Android_TegraK1, [00000AAA135816C0][00000AAA135DC800 50] Android_Unknown_Vulkan, [00000AAA13583800][00000AAA135C2800 50] Oculus_Quest, [00000AAA13582300][00000AAA135E0000 50] Oculus_Quest2, [00000AAA13582BC0][00000AAA135E5000 50] HoloLens, 
+[2023.04.04-10.54.19:600][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.04.04-10.54.19:637][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.04-10.54.19:637][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.04-10.54.19:637][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.04-10.54.19:637][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.04-10.54.19:637][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.04-10.54.19:650][  0]LogNetVersion: TechGD 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 612367954)
+[2023.04.04-10.54.19:701][  0]LogSlate: Border
+[2023.04.04-10.54.19:701][  0]LogSlate: BreadcrumbButton
+[2023.04.04-10.54.19:701][  0]LogSlate: Default
+[2023.04.04-10.54.19:701][  0]LogSlate: Icons.Save
+[2023.04.04-10.54.19:701][  0]LogSlate: Icons.Toolbar.Settings
+[2023.04.04-10.54.19:701][  0]LogSlate: ListView
+[2023.04.04-10.54.19:701][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.04.04-10.54.19:701][  0]LogSlate: SoftwareCursor_Grab
+[2023.04.04-10.54.19:701][  0]LogSlate: TableView.DarkRow
+[2023.04.04-10.54.19:701][  0]LogSlate: TableView.Row
+[2023.04.04-10.54.19:701][  0]LogSlate: TreeView
+[2023.04.04-10.54.19:758][  0]SourceControl: Source control is disabled
+[2023.04.04-10.54.19:767][  0]SourceControl: Source control is disabled
+[2023.04.04-10.54.19:767][  0]SourceControl: Source control is disabled
+[2023.04.04-10.54.19:856][  0]LogCollectionManager: Loaded 0 collections in 0.002137 seconds
+[2023.04.04-10.54.19:857][  0]LogFileCache: Scanning file cache for directory 'C:/Work/UnrealEnPr/TGDUnreal/TechGD/Saved/Collections/' took 0.00s
+[2023.04.04-10.54.19:857][  0]LogFileCache: Scanning file cache for directory 'C:/Work/UnrealEnPr/TGDUnreal/TechGD/Content/Developers/stasb/Collections/' took 0.00s
+[2023.04.04-10.54.19:857][  0]LogFileCache: Scanning file cache for directory 'C:/Work/UnrealEnPr/TGDUnreal/TechGD/Content/Collections/' took 0.00s
+[2023.04.04-10.54.19:857][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.04.04-10.54.20:039][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 158E6AFA47AEAD5AEC866BA3A06D30C4 | Instance: 1A48F26346B16148BB8C59A30DC2247A (STAS-PC-18864).
+[2023.04.04-10.54.20:071][  0]LogPython: Using Python 3.9.7
+[2023.04.04-10.54.20:869][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.04-10.54.20:976][  0]SourceControl: Source control is disabled
+[2023.04.04-10.54.20:978][  0]SourceControl: Source control is disabled
+[2023.04.04-10.54.20:985][  0]SourceControl: Source control is disabled
+[2023.04.04-10.54.21:006][  0]LogUProjectInfo: Found projects:
+[2023.04.04-10.54.21:251][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.04-10.54.21:306][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.04-10.54.21:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.04-10.54.21:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.04-10.54.21:511][  0]LogUObjectArray: 29612 objects as part of root set at end of initial load.
+[2023.04.04-10.54.21:511][  0]LogUObjectAllocator: 8624240 out of 0 bytes used by permanent object pool.
+[2023.04.04-10.54.21:511][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.04-10.54.21:513][  0]LogInit: Executing Class /Script/VisualStudioTools.VisualStudioToolsCommandlet
+[2023.04.04-10.54.21:513][  0]LogInit: Initializing Editor Engine...
+[2023.04.04-10.54.21:513][  0]LogEngine: Initializing Engine...
+[2023.04.04-10.54.21:622][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.04-10.54.21:622][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-10.54.21:627][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-10.54.21:634][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.04-10.54.21:635][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.04-10.54.21:635][  0]LogInit: Texture streaming: Disabled
+[2023.04.04-10.54.21:646][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.04-10.54.21:664][  0]LogInit: Initializing Editor Engine Completed
+[2023.04.04-10.54.21:706][  0]BlueprintLog: New page: Editor Load
+[2023.04.04-10.54.21:817][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.04.04-10.54.21:890][  0]LogVisualStudioTools: Display: Init VS Tools cmdlet.
+[2023.04.04-10.54.22:257][  0]log LogVisualStudioTools only
+[2023.04.04-10.54.22:258][  0]LogVisualStudioTools is now Verbose
+[2023.04.04-10.54.22:259][  0]Disabling other logs finished
+[2023.04.04-10.54.22:259][  0]LowLevelTasks                             Log           
+[2023.04.04-10.54.22:259][  0]LogTaskGraph                              Log           
+[2023.04.04-10.54.22:259][  0]OodleDataCompression                      Log           
+[2023.04.04-10.54.22:259][  0]LogLockFreeList                           Log           
+[2023.04.04-10.54.22:259][  0]LogStackTracker                           Log           
+[2023.04.04-10.54.22:259][  0]LogUnion                                  Log           
+[2023.04.04-10.54.22:259][  0]LogStreamingFileCache                     Log           
+[2023.04.04-10.54.22:259][  0]LogChunkInstaller                         Log           
+[2023.04.04-10.54.22:259][  0]LogCrashContext                           Display       
+[2023.04.04-10.54.22:259][  0]LogGenericPlatformMisc                    Log           
+[2023.04.04-10.54.22:259][  0]LogGenericPlatformString                  Log           
+[2023.04.04-10.54.22:259][  0]LogGenericPlatformSymbolication           Log           
+[2023.04.04-10.54.22:259][  0]LogGenericPlatformTime                    Log           
+[2023.04.04-10.54.22:259][  0]LogConsoleResponse                        Log           
+[2023.04.04-10.54.22:259][  0]LogConsoleManager                         Log           
+[2023.04.04-10.54.22:259][  0]LogFileManager                            Log           
+[2023.04.04-10.54.22:259][  0]LogPlatformFile                           Log           
+[2023.04.04-10.54.22:259][  0]LogPlatformFileManagedStorage             Display       
+[2023.04.04-10.54.22:259][  0]LogMallocFrameProfiler                    Log           
+[2023.04.04-10.54.22:259][  0]LogICUInternationalization                Log           
+[2023.04.04-10.54.22:259][  0]LogGatherArchiveObject                    Log           
+[2023.04.04-10.54.22:259][  0]LogInternationalizationManifestObject     Log           
+[2023.04.04-10.54.22:259][  0]LogInternationalizationMetadata           Log           
+[2023.04.04-10.54.22:259][  0]LogStringTable                            Log           
+[2023.04.04-10.54.22:259][  0]LogText                                   Log           
+[2023.04.04-10.54.22:259][  0]LogTextFormatter                          Log           
+[2023.04.04-10.54.22:259][  0]LogTextHistory                            Log           
+[2023.04.04-10.54.22:259][  0]LogTextKey                                Log           
+[2023.04.04-10.54.22:259][  0]LogTextLocalizationManager                Log           
+[2023.04.04-10.54.22:259][  0]LogTextLocalizationResource               Log           
+[2023.04.04-10.54.22:259][  0]LogIoDispatcher                           Log           
+[2023.04.04-10.54.22:259][  0]LogIoStore                                Log           
+[2023.04.04-10.54.22:259][  0]LogColorList                              Log           
+[2023.04.04-10.54.22:259][  0]LogFloatPacker                            Log           
+[2023.04.04-10.54.22:259][  0]LogGenericOctree                          Log           
+[2023.04.04-10.54.22:259][  0]LogTransform                              Log           
+[2023.04.04-10.54.22:259][  0]LogUnrealMath                             Log           
+[2023.04.04-10.54.22:259][  0]LogApp                                    Log           
+[2023.04.04-10.54.22:259][  0]LogAutomationTest                         Warning       
+[2023.04.04-10.54.22:259][  0]LogCompression                            Log           
+[2023.04.04-10.54.22:259][  0]LogConfig                                 Log           
+[2023.04.04-10.54.22:259][  0]LogHAL                                    Log           
+[2023.04.04-10.54.22:259][  0]LogSerialization                          Log           
+[2023.04.04-10.54.22:259][  0]LogContentComparisonCommandlet            Log           
+[2023.04.04-10.54.22:259][  0]LogNetPackageMap                          Warning       
+[2023.04.04-10.54.22:259][  0]LogNetSerialization                       Warning       
+[2023.04.04-10.54.22:259][  0]LogMemory                                 Log           
+[2023.04.04-10.54.22:259][  0]LogProfilingDebugging                     Log           
+[2023.04.04-10.54.22:259][  0]LogTemp                                   Log           
+[2023.04.04-10.54.22:259][  0]LogVirtualization                         Log           
+[2023.04.04-10.54.22:259][  0]LogWindows                                Log           
+[2023.04.04-10.54.22:259][  0]LogSHA                                    Warning       
+[2023.04.04-10.54.22:259][  0]LogStats                                  Log           
+[2023.04.04-10.54.22:259][  0]LogStreaming                              Display       
+[2023.04.04-10.54.22:259][  0]LogInit                                   Log           
+[2023.04.04-10.54.22:259][  0]LogExit                                   Log           
+[2023.04.04-10.54.22:259][  0]LogExec                                   Warning       
+[2023.04.04-10.54.22:259][  0]LogScript                                 Warning       
+[2023.04.04-10.54.22:259][  0]LogLocalization                           Error         
+[2023.04.04-10.54.22:259][  0]LogLongPackageNames                       Log           
+[2023.04.04-10.54.22:259][  0]LogProcess                                Log           
+[2023.04.04-10.54.22:259][  0]LogLoad                                   Log           
+[2023.04.04-10.54.22:259][  0]LogCore                                   Log           
+[2023.04.04-10.54.22:259][  0]LogInteractiveProcess                     Log           
+[2023.04.04-10.54.22:259][  0]LogMonitoredProcess                       Log           
+[2023.04.04-10.54.22:259][  0]LogNetVersion                             Log           
+[2023.04.04-10.54.22:259][  0]LogOutputDevice                           Log           
+[2023.04.04-10.54.22:259][  0]LogPaths                                  Log           
+[2023.04.04-10.54.22:259][  0]LogSecureHash                             Log           
+[2023.04.04-10.54.22:259][  0]LogStringUtility                          Log           
+[2023.04.04-10.54.22:259][  0]LogTimeGuard                              Log           
+[2023.04.04-10.54.22:259][  0]LogUProjectInfo                           Verbose       
+[2023.04.04-10.54.22:259][  0]LogModuleManager                          Log           
+[2023.04.04-10.54.22:259][  0]LogCsvProfiler                            Log           
+[2023.04.04-10.54.22:259][  0]LogExternalProfiler                       Log           
+[2023.04.04-10.54.22:259][  0]LogHistograms                             Log           
+[2023.04.04-10.54.22:259][  0]LogInstanceCount                          Log           
+[2023.04.04-10.54.22:259][  0]LogPlatformEvents                         Log           
+[2023.04.04-10.54.22:259][  0]LogStall                                  Log           
+[2023.04.04-10.54.22:259][  0]LogMemoryImage                            Log           
+[2023.04.04-10.54.22:259][  0]LogStatGroupEnableManager                 Log           
+[2023.04.04-10.54.22:259][  0]LogUnrealMathTest                         Log           
+[2023.04.04-10.54.22:259][  0]LogDevObjectVersion                       Log           
+[2023.04.04-10.54.22:259][  0]LogUnrealNames                            Log           
+[2023.04.04-10.54.22:259][  0]LogThreadingWindows                       Log           
+[2023.04.04-10.54.22:259][  0]LogAccessibility                          Log           
+[2023.04.04-10.54.22:259][  0]LogSynthBenchmark                         Log           
+[2023.04.04-10.54.22:259][  0]LogGenericPlatformWindow                  Log           
+[2023.04.04-10.54.22:259][  0]LogFramePacer                             Log           
+[2023.04.04-10.54.22:259][  0]LogTextStoreACP                           Log           
+[2023.04.04-10.54.22:259][  0]LogWindowsDesktop                         Log           
+[2023.04.04-10.54.22:259][  0]LogWindowsTextInputMethodSystem           Log           
+[2023.04.04-10.54.22:259][  0]LogJson                                   Log           
+[2023.04.04-10.54.22:259][  0]LogDesktopPlatform                        Log           
+[2023.04.04-10.54.22:259][  0]LogInstalledPlatforms                     Log           
+[2023.04.04-10.54.22:260][  0]LogTargetReceiptBuildWorker               Log           
+[2023.04.04-10.54.22:260][  0]LogPluginManager                          Log           
+[2023.04.04-10.54.22:260][  0]LogProjectManager                         Log           
+[2023.04.04-10.54.22:260][  0]LogSsl                                    Warning       
+[2023.04.04-10.54.22:260][  0]LogMultichannelTCP                        Log           
+[2023.04.04-10.54.22:260][  0]LogSockets                                Log           
+[2023.04.04-10.54.22:260][  0]LogZenHttp                                Log           
+[2023.04.04-10.54.22:260][  0]LogZenServiceInstance                     Log           
+[2023.04.04-10.54.22:260][  0]LogDerivedDataCache                       Log           
+[2023.04.04-10.54.22:260][  0]LogDerivedDataBuild                       Log           
+[2023.04.04-10.54.22:260][  0]LogHttpDerivedDataBackendTests            Log           
+[2023.04.04-10.54.22:260][  0]LogAssetData                              Log           
+[2023.04.04-10.54.22:260][  0]LogAssetDataTags                          Log           
+[2023.04.04-10.54.22:260][  0]LogBlueprintSupport                       Log           
+[2023.04.04-10.54.22:260][  0]LogPackageLocalizationCache               Log           
+[2023.04.04-10.54.22:260][  0]LogPackageLocalizationManager             Log           
+[2023.04.04-10.54.22:260][  0]LogPackageName                            Log           
+[2023.04.04-10.54.22:260][  0]LogRedirectors                            Log           
+[2023.04.04-10.54.22:260][  0]LogArchiveObjectCrc32                     Log           
+[2023.04.04-10.54.22:260][  0]LogArchiveDiff                            Log           
+[2023.04.04-10.54.22:260][  0]LogArchiveUObject                         Log           
+[2023.04.04-10.54.22:260][  0]LogAsyncArchive                           Display       
+[2023.04.04-10.54.22:260][  0]AsyncLoadingFlush                         Log           
+[2023.04.04-10.54.22:260][  0]LogBulkDataRuntime                        Log           
+[2023.04.04-10.54.22:260][  0]LogEditorPackageLoader                    Log           
+[2023.04.04-10.54.22:260][  0]LogCasts                                  Log           
+[2023.04.04-10.54.22:260][  0]LogScriptSerialization                    Log           
+[2023.04.04-10.54.22:260][  0]LogClass                                  Log           
+[2023.04.04-10.54.22:260][  0]LogCoreNet                                Log           
+[2023.04.04-10.54.22:260][  0]LogEnum                                   Log           
+[2023.04.04-10.54.22:260][  0]LogGarbage                                Warning       
+[2023.04.04-10.54.22:260][  0]LogLinker                                 Log           
+[2023.04.04-10.54.22:260][  0]LogMetaData                               Log           
+[2023.04.04-10.54.22:260][  0]LogObj                                    Log           
+[2023.04.04-10.54.22:260][  0]LogObjectHandle                           Log           
+[2023.04.04-10.54.22:260][  0]LogPackageResourceManager                 Log           
+[2023.04.04-10.54.22:260][  0]LogProperty                               Log           
+[2023.04.04-10.54.22:260][  0]LogReferenceChain                         Log           
+[2023.04.04-10.54.22:260][  0]LogSavePackage                            Log           
+[2023.04.04-10.54.22:260][  0]LogScriptFrame                            Warning       
+[2023.04.04-10.54.22:260][  0]LogScriptCore                             Log           
+[2023.04.04-10.54.22:260][  0]LogScriptStackTracker                     Log           
+[2023.04.04-10.54.22:260][  0]LogType                                   Log           
+[2023.04.04-10.54.22:260][  0]LogUObjectAllocator                       Log           
+[2023.04.04-10.54.22:260][  0]LogUObjectArray                           Log           
+[2023.04.04-10.54.22:260][  0]LogUObjectBase                            Log           
+[2023.04.04-10.54.22:260][  0]LogUObjectBootstrap                       Display       
+[2023.04.04-10.54.22:260][  0]LogUObjectGlobals                         Log           
+[2023.04.04-10.54.22:260][  0]LogUObjectHash                            Log           
+[2023.04.04-10.54.22:260][  0]LogUObjectLinker                          Log           
+[2023.04.04-10.54.22:260][  0]LogUObjectThreadContext                   Log           
+[2023.04.04-10.54.22:260][  0]LogWeakObjectPtr                          Log           
+[2023.04.04-10.54.22:260][  0]LogInput                                  Log           
+[2023.04.04-10.54.22:260][  0]LogSlateDebugger                          Log           
+[2023.04.04-10.54.22:260][  0]LogHittestDebug                           Display       
+[2023.04.04-10.54.22:260][  0]LogSlate                                  Log           
+[2023.04.04-10.54.22:260][  0]LogSlateStyles                            Log           
+[2023.04.04-10.54.22:260][  0]LogSlateStyle                             Log           
+[2023.04.04-10.54.22:260][  0]LogLayoutService                          Log           
+[2023.04.04-10.54.22:260][  0]LogTabManager                             Display       
+[2023.04.04-10.54.22:260][  0]LogGFNActionZoneProcessor                 Display       
+[2023.04.04-10.54.22:260][  0]LogGeForceNow                             Log           
+[2023.04.04-10.54.22:260][  0]LogRHI                                    Log           
+[2023.04.04-10.54.22:260][  0]LogAnalytics                              Display       
+[2023.04.04-10.54.22:260][  0]LogSignalProcessing                       Log           
+[2023.04.04-10.54.22:260][  0]LogAudioMixer                             Log           
+[2023.04.04-10.54.22:260][  0]LogAudioMixerDebug                        Warning       
+[2023.04.04-10.54.22:260][  0]LogUnrealColorManagementTest              Log           
+[2023.04.04-10.54.22:260][  0]LogTransferFunctions                      Log           
+[2023.04.04-10.54.22:260][  0]LogHttp                                   Display       
+[2023.04.04-10.54.22:260][  0]LogWinHttp                                Log           
+[2023.04.04-10.54.22:260][  0]LogHttpConnection                         Log           
+[2023.04.04-10.54.22:260][  0]LogHttpConnectionResponseWriteContext     Log           
+[2023.04.04-10.54.22:260][  0]LogHttpListener                           Log           
+[2023.04.04-10.54.22:260][  0]LogHttpServerConfig                       Log           
+[2023.04.04-10.54.22:260][  0]LogHttpServerModule                       Log           
+[2023.04.04-10.54.22:260][  0]LogPerfCounters                           Log           
+[2023.04.04-10.54.22:260][  0]LogZeroLoad                               Log           
+[2023.04.04-10.54.22:260][  0]LogImageCore                              Log           
+[2023.04.04-10.54.22:260][  0]LogCookerSettings                         Log           
+[2023.04.04-10.54.22:260][  0]LogNetFastTArray                          Warning       
+[2023.04.04-10.54.22:260][  0]LogNetCore                                Log           
+[2023.04.04-10.54.22:260][  0]LogPushModel                              VeryVerbose   
+[2023.04.04-10.54.22:260][  0]LogClearQuad                              Log           
+[2023.04.04-10.54.22:260][  0]LogGPUMessaging                           Log           
+[2023.04.04-10.54.22:260][  0]LogPipelineCacheUtilities                 Log           
+[2023.04.04-10.54.22:260][  0]LogRendererCore                           Log           
+[2023.04.04-10.54.22:260][  0]LogRDG                                    Log           
+[2023.04.04-10.54.22:260][  0]LogRDG                                    Log           
+[2023.04.04-10.54.22:260][  0]LogRenderTargetPool                       Warning       
+[2023.04.04-10.54.22:260][  0]LogShaders                                Error         
+[2023.04.04-10.54.22:260][  0]LogShaderWarnings                         Log           
+[2023.04.04-10.54.22:260][  0]LogShaderLibrary                          Log           
+[2023.04.04-10.54.22:260][  0]LogVirtualTexturing                       Log           
+[2023.04.04-10.54.22:260][  0]LogAnalyticsSessionSummary                Verbose       
+[2023.04.04-10.54.22:260][  0]LogAnalyticsSessionSummarySender          Verbose       
+[2023.04.04-10.54.22:260][  0]LogAssetRegistry                          Log           
+[2023.04.04-10.54.22:260][  0]PacketHandlerLog                          Log           
+[2023.04.04-10.54.22:260][  0]LogAudioResampler                         Warning       
+[2023.04.04-10.54.22:260][  0]LogMeshDescription                        Log           
+[2023.04.04-10.54.22:260][  0]LogLayoutUV                               Log           
+[2023.04.04-10.54.22:260][  0]LogStaticMeshOperations                   Log           
+[2023.04.04-10.54.22:260][  0]LogSkeletalMeshOperations                 Log           
+[2023.04.04-10.54.22:260][  0]LogFilePackageStore                       Log           
+[2023.04.04-10.54.22:260][  0]LogPakFile                                Log           
+[2023.04.04-10.54.22:260][  0]LogGeometry                               Log           
+[2023.04.04-10.54.22:260][  0]LogChaosGeneral                           Log           
+[2023.04.04-10.54.22:260][  0]LogChaosThread                            Log           
+[2023.04.04-10.54.22:260][  0]LogChaosSimulation                        Log           
+[2023.04.04-10.54.22:260][  0]LogChaosDebug                             Log           
+[2023.04.04-10.54.22:260][  0]LogChaos                                  Log           
+[2023.04.04-10.54.22:260][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:260][  0]LogChaosCollisionSolver                   Log           
+[2023.04.04-10.54.22:260][  0]LogChaosCollision                         Log           
+[2023.04.04-10.54.22:260][  0]LogChaosMinEvolution                      Log           
+[2023.04.04-10.54.22:261][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:261][  0]LogChaosJoint                             Log           
+[2023.04.04-10.54.22:261][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:261][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:261][  0]LogChaosSpatialHash                       Verbose       
+[2023.04.04-10.54.22:261][  0]USkeletalMeshSimulationComponentLogging   NoLogging     
+[2023.04.04-10.54.22:261][  0]FSCA_Log                                  Log           
+[2023.04.04-10.54.22:261][  0]FGeometryCollectionLogging                Log           
+[2023.04.04-10.54.22:261][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:261][  0]GeometryCollectionAlgoLog                 Log           
+[2023.04.04-10.54.22:261][  0]LogGeometryCollectionClean                Verbose       
+[2023.04.04-10.54.22:261][  0]GCS_Log                                   NoLogging     
+[2023.04.04-10.54.22:261][  0]LogChaosProximity                         Verbose       
+[2023.04.04-10.54.22:261][  0]FGeometryCollectionSizeSpecificUtilityLogging  Log           
+[2023.04.04-10.54.22:261][  0]FGeometryCollectionUtilityLogging         Log           
+[2023.04.04-10.54.22:261][  0]FManagedArrayCollectionLogging            NoLogging     
+[2023.04.04-10.54.22:261][  0]LogGeometryCollectionCache                Log           
+[2023.04.04-10.54.22:261][  0]FTransformCollectionLogging               NoLogging     
+[2023.04.04-10.54.22:261][  0]USkeletalMeshSimulationComponentLogging   NoLogging     
+[2023.04.04-10.54.22:261][  0]LogPBDRigidsSolver                        Log           
+[2023.04.04-10.54.22:261][  0]UGCC_LOG                                  Error         
+[2023.04.04-10.54.22:261][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:261][  0]USkeletalMeshSimulationComponentLogging   NoLogging     
+[2023.04.04-10.54.22:261][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:261][  0]USkeletalMeshSimulationComponentLogging   NoLogging     
+[2023.04.04-10.54.22:261][  0]LogPhysicsCore                            Warning       
+[2023.04.04-10.54.22:261][  0]LogAudioCodec                             Display       
+[2023.04.04-10.54.22:261][  0]LogAudioEndpoints                         Display       
+[2023.04.04-10.54.22:261][  0]LogIESLoader                              Log           
+[2023.04.04-10.54.22:261][  0]JPEGLog                                   Log           
+[2023.04.04-10.54.22:261][  0]LogImageWrapper                           Log           
+[2023.04.04-10.54.22:261][  0]LogSwarmInterface                         Verbose       
+[2023.04.04-10.54.22:261][  0]LogPackageStoreOptimizer                  Log           
+[2023.04.04-10.54.22:261][  0]LogZenStore                               Log           
+[2023.04.04-10.54.22:261][  0]LogZenStoreWriter                         Log           
+[2023.04.04-10.54.22:261][  0]LogScriptDisassembler                     Log           
+[2023.04.04-10.54.22:261][  0]LogToolMenus                              Log           
+[2023.04.04-10.54.22:261][  0]LogCbor                                   Log           
+[2023.04.04-10.54.22:261][  0]LogTraceAnalysis                          Log           
+[2023.04.04-10.54.22:261][  0]LogAnalysisCache                          Log           
+[2023.04.04-10.54.22:261][  0]LogNetTrace                               Log           
+[2023.04.04-10.54.22:261][  0]LogTraceServices                          Log           
+[2023.04.04-10.54.22:261][  0]LogDbgHelp                                Log           
+[2023.04.04-10.54.22:261][  0]LogSymslib                                Log           
+[2023.04.04-10.54.22:261][  0]LogCotfConnectionServer                   Log           
+[2023.04.04-10.54.22:261][  0]LogCookOnTheFly                           Log           
+[2023.04.04-10.54.22:261][  0]LogCotfServerConnection                   Log           
+[2023.04.04-10.54.22:261][  0]LogDirectoryWatcher                       Log           
+[2023.04.04-10.54.22:261][  0]LogDirectoryWatcherTests                  Log           
+[2023.04.04-10.54.22:261][  0]LogFileCache                              Log           
+[2023.04.04-10.54.22:261][  0]SandboxFile                               Log           
+[2023.04.04-10.54.22:261][  0]LogAnimationCore                          Log           
+[2023.04.04-10.54.22:261][  0]ConfigEditor                              Log           
+[2023.04.04-10.54.22:261][  0]LogDetour                                 Log           
+[2023.04.04-10.54.22:261][  0]LogDebugRaycastCrash                      VeryVerbose   
+[2023.04.04-10.54.22:261][  0]LogRecast                                 Log           
+[2023.04.04-10.54.22:261][  0]LogTargetPlatformManager                  Log           
+[2023.04.04-10.54.22:261][  0]MovieSceneSerialization                   Verbose       
+[2023.04.04-10.54.22:261][  0]LogInterchangeCore                        Log           
+[2023.04.04-10.54.22:261][  0]LogLiveLinkRoles                          Log           
+[2023.04.04-10.54.22:261][  0]LogLiveLinkSubjectSettings                Warning       
+[2023.04.04-10.54.22:261][  0]LogAVIWriter                              Log           
+[2023.04.04-10.54.22:261][  0]LogMovieCapture                           Warning       
+[2023.04.04-10.54.22:261][  0]LogConvexDecompTool                       Log           
+[2023.04.04-10.54.22:261][  0]LogEditorInteractiveGizmoRegistry         Log           
+[2023.04.04-10.54.22:261][  0]LogEditorInteractiveGizmoSubsystem        Log           
+[2023.04.04-10.54.22:261][  0]LogAndroidWindowUtils                     Log           
+[2023.04.04-10.54.22:261][  0]LogPIEPreviewDevice                       Log           
+[2023.04.04-10.54.22:261][  0]LogMovieSceneCapture                      Log           
+[2023.04.04-10.54.22:261][  0]LogFCPXMLExporter                         Log           
+[2023.04.04-10.54.22:261][  0]LogFCPXMLMetadataExporter                 Log           
+[2023.04.04-10.54.22:261][  0]LogInterchangeEngine                      Log           
+[2023.04.04-10.54.22:261][  0]LogAssetTools                             Log           
+[2023.04.04-10.54.22:261][  0]LogAssetTypeActionsPhysicalMaterialMask   Log           
+[2023.04.04-10.54.22:261][  0]LogVirtualTextureConversion               Log           
+[2023.04.04-10.54.22:261][  0]LogContentBrowser                         Verbose       
+[2023.04.04-10.54.22:261][  0]LogSequencer                              Log           
+[2023.04.04-10.54.22:261][  0]LogSequencerTools                         Log           
+[2023.04.04-10.54.22:261][  0]LogHierarchicalLODUtilities               Verbose       
+[2023.04.04-10.54.22:261][  0]LogRuntimeVirtualTextureFixMaterial       Log           
+[2023.04.04-10.54.22:261][  0]LogMockMeshDataTracker                    Log           
+[2023.04.04-10.54.22:261][  0]LogMrMesh                                 Warning       
+[2023.04.04-10.54.22:261][  0]LogMockMeshDataTracker                    Log           
+[2023.04.04-10.54.22:261][  0]LogMrMesh                                 Warning       
+[2023.04.04-10.54.22:261][  0]LogMrMesh                                 Warning       
+[2023.04.04-10.54.22:261][  0]LogAR                                     Log           
+[2023.04.04-10.54.22:261][  0]LogHeadMountedDisplayCommand              Display       
+[2023.04.04-10.54.22:261][  0]LogUHeadMountedDisplay                    Log           
+[2023.04.04-10.54.22:261][  0]LogHMD                                    Log           
+[2023.04.04-10.54.22:261][  0]LogLoadingSplash                          Log           
+[2023.04.04-10.54.22:261][  0]LogMotionControllerComponent              Log           
+[2023.04.04-10.54.22:261][  0]LogMotionDelayBuffer                      Log           
+[2023.04.04-10.54.22:261][  0]LogMotionTracking                         Log           
+[2023.04.04-10.54.22:261][  0]DerivedDataCacheNotifications             Log           
+[2023.04.04-10.54.22:261][  0]LogLocalizationSourceControl              Log           
+[2023.04.04-10.54.22:261][  0]LogLocTextHelper                          Log           
+[2023.04.04-10.54.22:261][  0]LogPortableObjectPipeline                 Log           
+[2023.04.04-10.54.22:261][  0]LogInternationalizationArchiveSerializer  Log           
+[2023.04.04-10.54.22:261][  0]LogInternationalizationManifestSerializer  Log           
+[2023.04.04-10.54.22:261][  0]LogTextLocalizationResourceGenerator      Log           
+[2023.04.04-10.54.22:261][  0]LogTranslationEditor                      Log           
+[2023.04.04-10.54.22:261][  0]LocalizationExport                        Log           
+[2023.04.04-10.54.22:261][  0]LogStatusBar                              Log           
+[2023.04.04-10.54.22:261][  0]LogSourceControlChangelist                VeryVerbose   
+[2023.04.04-10.54.22:261][  0]LogActorLevelEditorSelection              Log           
+[2023.04.04-10.54.22:261][  0]LogComponentLevelEditorSelection          Log           
+[2023.04.04-10.54.22:261][  0]LogSMInstanceLevelEditorSelection         Log           
+[2023.04.04-10.54.22:261][  0]LevelEditorActions                        Log           
+[2023.04.04-10.54.22:261][  0]LogViewportMenu                           Log           
+[2023.04.04-10.54.22:261][  0]LevelEditorModesActions                   Log           
+[2023.04.04-10.54.22:261][  0]LevelEditorSubsystem                      Log           
+[2023.04.04-10.54.22:261][  0]LogSplineComponentVisualizer              Log           
+[2023.04.04-10.54.22:261][  0]LogGameplayTasks                          Log           
+[2023.04.04-10.54.22:261][  0]LogGameplayTags                           Log           
+[2023.04.04-10.54.22:261][  0]LogGameplayDebugReplication               Display       
+[2023.04.04-10.54.22:261][  0]LogGameplayDebug                          Log           
+[2023.04.04-10.54.22:261][  0]LogPawnAction                             Warning       
+[2023.04.04-10.54.22:261][  0]LogAINavigation                           Warning       
+[2023.04.04-10.54.22:261][  0]LogTestAI                                 VeryVerbose   
+[2023.04.04-10.54.22:262][  0]LogAIModule                               Log           
+[2023.04.04-10.54.22:262][  0]LogManagerInstanceTracker                 Warning       
+[2023.04.04-10.54.22:262][  0]LogAISub                                  Log           
+[2023.04.04-10.54.22:262][  0]LogBehaviorTree                           Display       
+[2023.04.04-10.54.22:262][  0]LogBlackboard                             Log           
+[2023.04.04-10.54.22:262][  0]LogAIBlueprint                            Warning       
+[2023.04.04-10.54.22:262][  0]LogBrain                                  Warning       
+[2023.04.04-10.54.22:262][  0]LogEQS                                    Display       
+[2023.04.04-10.54.22:262][  0]LogCrowdFollowing                         Warning       
+[2023.04.04-10.54.22:262][  0]LogPathFollowing                          Warning       
+[2023.04.04-10.54.22:262][  0]LogAIPerception                           Warning       
+[2023.04.04-10.54.22:262][  0]LogNavOctree                              Warning       
+[2023.04.04-10.54.22:262][  0]LogNavigationDirtyArea                    Warning       
+[2023.04.04-10.54.22:262][  0]LogNavSysModule                           Log           
+[2023.04.04-10.54.22:262][  0]LogParticleModuleDetails                  Log           
+[2023.04.04-10.54.22:262][  0]LogSplineComponentDetails                 Log           
+[2023.04.04-10.54.22:262][  0]LogFoliage                                Warning       
+[2023.04.04-10.54.22:262][  0]LogStatsViewer                            Log           
+[2023.04.04-10.54.22:262][  0]LogClothingAsset                          Log           
+[2023.04.04-10.54.22:262][  0]LogClothingMeshUtils                      Log           
+[2023.04.04-10.54.22:262][  0]LogLODUtilities                           Log           
+[2023.04.04-10.54.22:262][  0]LogMaterialBaking                         VeryVerbose   
+[2023.04.04-10.54.22:262][  0]LogMaterialUtilities                      Log           
+[2023.04.04-10.54.22:262][  0]LogProxyMaterialUtilities                 Log           
+[2023.04.04-10.54.22:262][  0]LogMaterialEditingLibrary                 Warning       
+[2023.04.04-10.54.22:262][  0]LogMaterialEditor                         Log           
+[2023.04.04-10.54.22:262][  0]LogMaterialEditorUtilities                Log           
+[2023.04.04-10.54.22:262][  0]LogMaterialInstanceEditor                 Log           
+[2023.04.04-10.54.22:262][  0]LogEditorMaterialEditorPromotionTests     Log           
+[2023.04.04-10.54.22:262][  0]LogFeaturePack                            Log           
+[2023.04.04-10.54.22:262][  0]LogGameProjectGeneration                  Verbose       
+[2023.04.04-10.54.22:262][  0]LogProjectBrowser                         Log           
+[2023.04.04-10.54.22:262][  0]LogGameProjectGenerationTests             Log           
+[2023.04.04-10.54.22:262][  0]LogSubobjectSubsystem                     Log           
+[2023.04.04-10.54.22:262][  0]LogSubobjectEditor                        Log           
+[2023.04.04-10.54.22:262][  0]LogUMG                                    Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintEditorLib                     Warning       
+[2023.04.04-10.54.22:262][  0]LogEditorClassViewer                      Log           
+[2023.04.04-10.54.22:262][  0]LogJsonConfig                             Log           
+[2023.04.04-10.54.22:262][  0]LogSourceControl                          Log           
+[2023.04.04-10.54.22:262][  0]LogActorBrowser                           Log           
+[2023.04.04-10.54.22:262][  0]LogSceneOutliner                          Log           
+[2023.04.04-10.54.22:262][  0]LogEditCondition                          Log           
+[2023.04.04-10.54.22:262][  0]LogPropertyEditor                         Log           
+[2023.04.04-10.54.22:262][  0]LogPropertyNode                           Log           
+[2023.04.04-10.54.22:262][  0]LogK2Compiler                             Log           
+[2023.04.04-10.54.22:262][  0]LogTokenParser                            Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintNodeCache                     Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintActionMenuItemFactory         Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintDragDropMenuItem              Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintEditor                        Log           
+[2023.04.04-10.54.22:262][  0]LogViewportBlueprintMenu                  Log           
+[2023.04.04-10.54.22:262][  0]LogNamespace                              Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintDebuggingView                 Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintDebugTreeView                 Log           
+[2023.04.04-10.54.22:262][  0]LogFindInBlueprint                        Warning       
+[2023.04.04-10.54.22:262][  0]LogSCSEditorViewport                      Log           
+[2023.04.04-10.54.22:262][  0]LogSCSEditor                              Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintEditorPromotionTests          Log           
+[2023.04.04-10.54.22:262][  0]LogConnectionDrawingPolicy                Log           
+[2023.04.04-10.54.22:262][  0]LogGraphPanel                             Log           
+[2023.04.04-10.54.22:262][  0]LogEditorModes                            Log           
+[2023.04.04-10.54.22:262][  0]LogAnimationBlueprintLibrary              Verbose       
+[2023.04.04-10.54.22:262][  0]LogAnimationPoseScripting                 Verbose       
+[2023.04.04-10.54.22:262][  0]LogAnimationStateMachineLibrary           Verbose       
+[2023.04.04-10.54.22:262][  0]LogRBAN                                   Log           
+[2023.04.04-10.54.22:262][  0]LogSequenceEvaluatorLibrary               Verbose       
+[2023.04.04-10.54.22:262][  0]LogSequencePlayerLibrary                  Verbose       
+[2023.04.04-10.54.22:262][  0]LogSkeletalControlLibrary                 Verbose       
+[2023.04.04-10.54.22:262][  0]LogMovieScene                             Log           
+[2023.04.04-10.54.22:262][  0]LogMovieSceneECS                          Log           
+[2023.04.04-10.54.22:262][  0]LogMovieSceneRepl                         Log           
+[2023.04.04-10.54.22:262][  0]LogMediaTimeSource                        Log           
+[2023.04.04-10.54.22:262][  0]LogMediaUtils                             Log           
+[2023.04.04-10.54.22:262][  0]LogAudioLink                              Log           
+[2023.04.04-10.54.22:262][  0]LogMediaAssets                            Log           
+[2023.04.04-10.54.22:262][  0]LogLevelSequence                          Log           
+[2023.04.04-10.54.22:262][  0]LogBSPOps                                 Log           
+[2023.04.04-10.54.22:262][  0]LogBspUtils                               Log           
+[2023.04.04-10.54.22:262][  0]LogApexClothingUtils                      Log           
+[2023.04.04-10.54.22:262][  0]LogApplicationMode                        Log           
+[2023.04.04-10.54.22:262][  0]LogAssetImportTask                        Log           
+[2023.04.04-10.54.22:262][  0]LogAutomatedImport                        Log           
+[2023.04.04-10.54.22:262][  0]LogAutoReimportManager                    Log           
+[2023.04.04-10.54.22:262][  0]LogEditorBookmarks                        Warning       
+[2023.04.04-10.54.22:262][  0]LogAssetRegistryGenerator                 Log           
+[2023.04.04-10.54.22:262][  0]LogAssetRegUtil                           Log           
+[2023.04.04-10.54.22:262][  0]AudioMixerCommandlet                      Log           
+[2023.04.04-10.54.22:262][  0]LogSourceControlUtils                     Log           
+[2023.04.04-10.54.22:262][  0]LogCompileAllBlueprintsCommandlet         Log           
+[2023.04.04-10.54.22:262][  0]LogContentCommandlet                      Log           
+[2023.04.04-10.54.22:262][  0]LogConvertLevelsToExternalActorsCommandlet  VeryVerbose   
+[2023.04.04-10.54.22:262][  0]LogCookCommandlet                         Log           
+[2023.04.04-10.54.22:262][  0]LogCookGlobalShaders                      Log           
+[2023.04.04-10.54.22:262][  0]LogDerivedDataCacheCommandlet             Log           
+[2023.04.04-10.54.22:262][  0]LogDiffAssets                             Log           
+[2023.04.04-10.54.22:262][  0]LogDiffAssetsCommandlet                   Log           
+[2023.04.04-10.54.22:262][  0]LogDiffFilesCommandlet                    Log           
+[2023.04.04-10.54.22:262][  0]LogDiffPackagesCommandlet                 Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintInfoDump                      Log           
+[2023.04.04-10.54.22:262][  0]LogDumpMaterialShaderTypesCommandlet      Log           
+[2023.04.04-10.54.22:262][  0]LogExportDialogueScriptCommandlet         Log           
+[2023.04.04-10.54.22:262][  0]LogExternalActorsCommandlet               VeryVerbose   
+[2023.04.04-10.54.22:262][  0]LogExtractLocRes                          Log           
+[2023.04.04-10.54.22:262][  0]LogFileServerCommandlet                   Log           
+[2023.04.04-10.54.22:262][  0]LogFixConflictingLocalizationKeys         Log           
+[2023.04.04-10.54.22:262][  0]LogGatherTextCommandlet                   Log           
+[2023.04.04-10.54.22:262][  0]LogGatherTextCommandletBase               Log           
+[2023.04.04-10.54.22:262][  0]LogGatherTextFromAssetsCommandlet         Log           
+[2023.04.04-10.54.22:262][  0]LogGatherTextFromMetaDataCommandlet       Log           
+[2023.04.04-10.54.22:262][  0]LogGatherTextFromSourceCommandlet         Log           
+[2023.04.04-10.54.22:262][  0]LogGenerateAssetManifestCommandlet        Log           
+[2023.04.04-10.54.22:262][  0]LogBlueprintAPIGenerate                   Log           
+[2023.04.04-10.54.22:262][  0]LogGenerateDistillFileSetsCommandlet      Log           
+[2023.04.04-10.54.22:262][  0]LogGenerateArchiveCommandlet              Log           
+[2023.04.04-10.54.22:262][  0]LogGenerateManifestCommandlet             Log           
+[2023.04.04-10.54.22:262][  0]LogGenerateTextLocalizationReportCommandlet  Log           
+[2023.04.04-10.54.22:262][  0]LogGenerateTextLocalizationResourceCommandlet  Log           
+[2023.04.04-10.54.22:263][  0]LogImportDialogueScriptCommandlet         Log           
+[2023.04.04-10.54.22:263][  0]LogImportLocalizedDialogueCommandlet      Log           
+[2023.04.04-10.54.22:263][  0]LogInternationalizationConditioningCommandlet  Log           
+[2023.04.04-10.54.22:263][  0]LogInternationalizationExportCommandlet   Log           
+[2023.04.04-10.54.22:263][  0]LogMergeShaderPipelineCachesCommandlet    Log           
+[2023.04.04-10.54.22:263][  0]LogPackageHelperFunctions                 Log           
+[2023.04.04-10.54.22:263][  0]LogPackageUtilities                       Log           
+[2023.04.04-10.54.22:263][  0]LogParticleSystemAuditCommandlet          Log           
+[2023.04.04-10.54.22:263][  0]LogPopulateDialogueWaveFromCharacterSheetCommandlet  Log           
+[2023.04.04-10.54.22:263][  0]LogReplaceAssetsCommandlet                Log           
+[2023.04.04-10.54.22:263][  0]LogShaderCodeLibraryTools                 Log           
+[2023.04.04-10.54.22:263][  0]LogShaderPipelineCacheTools               Log           
+[2023.04.04-10.54.22:263][  0]LogStabilizeLocalizationKeys              Log           
+[2023.04.04-10.54.22:263][  0]LogSummarizeTrace                         Log           
+[2023.04.04-10.54.22:263][  0]LogSwapSoundForDialogueInCuesCommandlet   Log           
+[2023.04.04-10.54.22:263][  0]LogTextAsset                              Log           
+[2023.04.04-10.54.22:263][  0]LogUpdateGameProjectCommandlet            Log           
+[2023.04.04-10.54.22:263][  0]LogWorldPartitionBuilderCommandlet        VeryVerbose   
+[2023.04.04-10.54.22:263][  0]LogWorldPartitionConvertCommandlet        Log           
+[2023.04.04-10.54.22:263][  0]LogCookOnTheFlyTracker                    Log           
+[2023.04.04-10.54.22:263][  0]LogPackageBuildDependencyTracker          Log           
+[2023.04.04-10.54.22:263][  0]LogCook                                   Log           
+[2023.04.04-10.54.22:263][  0]LogDerivedDataBuildLocalExecutor          Log           
+[2023.04.04-10.54.22:263][  0]LogDerivedDataBuildRemoteExecutor         Log           
+[2023.04.04-10.54.22:263][  0]LogCustomDialog                           Log           
+[2023.04.04-10.54.22:263][  0]LogDialogs                                Log           
+[2023.04.04-10.54.22:263][  0]LogEditorActor                            Log           
+[2023.04.04-10.54.22:263][  0]LogEditorBuildUtils                       Log           
+[2023.04.04-10.54.22:263][  0]LogEditorDomain                           Log           
+[2023.04.04-10.54.22:263][  0]LogEditorDomainSave                       Log           
+[2023.04.04-10.54.22:263][  0]LogToolMenusEditor                        Log           
+[2023.04.04-10.54.22:263][  0]LogEditor                                 Log           
+[2023.04.04-10.54.22:263][  0]LogEditorExporters                        Log           
+[2023.04.04-10.54.22:263][  0]LogLevelTools                             Warning       
+[2023.04.04-10.54.22:263][  0]LogEditorObject                           Log           
+[2023.04.04-10.54.22:263][  0]LogEditorSelectUtils                      Log           
+[2023.04.04-10.54.22:263][  0]LogEditorServer                           Log           
+[2023.04.04-10.54.22:263][  0]LogEditorTransaction                      Log           
+[2023.04.04-10.54.22:263][  0]LogActorFactory                           Log           
+[2023.04.04-10.54.22:263][  0]LogCSVImportFactory                       Log           
+[2023.04.04-10.54.22:263][  0]LogEditorFactories                        Log           
+[2023.04.04-10.54.22:263][  0]LogFactory                                Log           
+[2023.04.04-10.54.22:263][  0]LogPackFactory                            Log           
+[2023.04.04-10.54.22:263][  0]LogTIFFLoader                             Log           
+[2023.04.04-10.54.22:263][  0]LogTTFontImport                           Log           
+[2023.04.04-10.54.22:263][  0]LogVectorFieldFactory                     Log           
+[2023.04.04-10.54.22:263][  0]LogExportMeshUtils                        Log           
+[2023.04.04-10.54.22:263][  0]LogFbxAnimationExport                     Log           
+[2023.04.04-10.54.22:263][  0]LogFbxLightImport                         Log           
+[2023.04.04-10.54.22:263][  0]LogFbx                                    Log           
+[2023.04.04-10.54.22:263][  0]LogFbxMaterialImport                      Log           
+[2023.04.04-10.54.22:263][  0]LogFbxSkeletalMeshExport                  Log           
+[2023.04.04-10.54.22:263][  0]LogFileHelpers                            Log           
+[2023.04.04-10.54.22:263][  0]LogLODGenerator                           Log           
+[2023.04.04-10.54.22:263][  0]LogSkeletalMeshImport                     Log           
+[2023.04.04-10.54.22:263][  0]LogStaticMeshImportUtils                  Log           
+[2023.04.04-10.54.22:263][  0]LogBlueprintDebug                         Log           
+[2023.04.04-10.54.22:263][  0]LogDebuggerCommands                       Log           
+[2023.04.04-10.54.22:263][  0]LogEditorViewport                         Log           
+[2023.04.04-10.54.22:263][  0]LogVolumetricLightmapImport               Log           
+[2023.04.04-10.54.22:263][  0]LogLightmassSolver                        Warning       
+[2023.04.04-10.54.22:263][  0]LogLightmassRender                        Error         
+[2023.04.04-10.54.22:263][  0]LogLocalizationChunkDataGenerator         Log           
+[2023.04.04-10.54.22:263][  0]LogLocalizedAssetUtil                     Log           
+[2023.04.04-10.54.22:263][  0]LogObjectTools                            Log           
+[2023.04.04-10.54.22:263][  0]PackageAutoSaver                          Log           
+[2023.04.04-10.54.22:263][  0]LogCommandletPackageHelper                Log           
+[2023.04.04-10.54.22:263][  0]LogPackageTools                           Log           
+[2023.04.04-10.54.22:263][  0]LogParamParser                            Log           
+[2023.04.04-10.54.22:263][  0]LogPhysicalMaterialMaskImport             Log           
+[2023.04.04-10.54.22:263][  0]LogEditorPhysMode                         Log           
+[2023.04.04-10.54.22:263][  0]LogPlayLevel                              Log           
+[2023.04.04-10.54.22:263][  0]LogReferncedAssetsBrowser                 Log           
+[2023.04.04-10.54.22:263][  0]LogCurveEditor                            Log           
+[2023.04.04-10.54.22:263][  0]LogSelection                              Log           
+[2023.04.04-10.54.22:263][  0]LogSkinWeightsUtilities                   Log           
+[2023.04.04-10.54.22:263][  0]LogSelectionDetails                       Log           
+[2023.04.04-10.54.22:263][  0]LogStaticLightingSystem                   Log           
+[2023.04.04-10.54.22:263][  0]LogStaticMeshEdit                         Log           
+[2023.04.04-10.54.22:263][  0]LogAssetEditorSubsystem                   Log           
+[2023.04.04-10.54.22:263][  0]LogAutomationEditorCommon                 Log           
+[2023.04.04-10.54.22:263][  0]LogEditorPromotionTests                   Log           
+[2023.04.04-10.54.22:263][  0]LogThumbnailExternalCache                 Log           
+[2023.04.04-10.54.22:263][  0]LogThumbnailManager                       Log           
+[2023.04.04-10.54.22:263][  0]LogAssetEditorToolkit                     Log           
+[2023.04.04-10.54.22:263][  0]LogUnrealEdEngine                         Log           
+[2023.04.04-10.54.22:263][  0]LogUnrealEd                               Log           
+[2023.04.04-10.54.22:263][  0]LogUnrealEdMisc                           Log           
+[2023.04.04-10.54.22:263][  0]LogUnrealEdSrv                            Log           
+[2023.04.04-10.54.22:263][  0]LogUtils                                  Log           
+[2023.04.04-10.54.22:263][  0]LogWorldFolders                           Log           
+[2023.04.04-10.54.22:263][  0]LogWorldPartitionBuilder                  Log           
+[2023.04.04-10.54.22:263][  0]LogWorldPartitionFoliageBuilder           VeryVerbose   
+[2023.04.04-10.54.22:263][  0]LogWorldPartitionHLODsBuilder             VeryVerbose   
+[2023.04.04-10.54.22:264][  0]LogWorldPartitionMiniMapBuilder           VeryVerbose   
+[2023.04.04-10.54.22:264][  0]LogWorldPartitionNavigationDataBuilder    Log           
+[2023.04.04-10.54.22:264][  0]LogWorldPartitionCopyWorldBuilder         VeryVerbose   
+[2023.04.04-10.54.22:264][  0]LogWorldPartitionResaveActorsBuilder      VeryVerbose   
+[2023.04.04-10.54.22:264][  0]LogTypedElementEditor                     Log           
+[2023.04.04-10.54.22:264][  0]LogInstancedFoliage                       Log           
+[2023.04.04-10.54.22:264][  0]LogImageWriteQueue                        Warning       
+[2023.04.04-10.54.22:264][  0]LogDistanceField                          Log           
+[2023.04.04-10.54.22:264][  0]LogHairRendering                          Log           
+[2023.04.04-10.54.22:264][  0]LogNanite                                 Warning       
+[2023.04.04-10.54.22:264][  0]LogRenderer                               Log           
+[2023.04.04-10.54.22:264][  0]LogVirtualTextureSpace                    Log           
+[2023.04.04-10.54.22:264][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:264][  0]LogLandscape                              Warning       
+[2023.04.04-10.54.22:264][  0]LogLandscapeBP                            Display       
+[2023.04.04-10.54.22:264][  0]LogGrass                                  Log           
+[2023.04.04-10.54.22:264][  0]LogAudioQuartz                            Log           
+[2023.04.04-10.54.22:264][  0]LogActor                                  Warning       
+[2023.04.04-10.54.22:264][  0]LogBlueprintUserMessages                  Log           
+[2023.04.04-10.54.22:264][  0]LogActorPartitionSubsystem                VeryVerbose   
+[2023.04.04-10.54.22:264][  0]LogNavigation                             Warning       
+[2023.04.04-10.54.22:264][  0]LogNavigationDataBuild                    Log           
+[2023.04.04-10.54.22:264][  0]LogNavLink                                Warning       
+[2023.04.04-10.54.22:264][  0]LogAStar                                  Display       
+[2023.04.04-10.54.22:264][  0]LogAnimation                              Warning       
+[2023.04.04-10.54.22:264][  0]LogRootMotion                             Warning       
+[2023.04.04-10.54.22:264][  0]LogAnimationCompression                   Log           
+[2023.04.04-10.54.22:264][  0]LogAnimNotify                             Warning       
+[2023.04.04-10.54.22:264][  0]LogAnimMontage                            Warning       
+[2023.04.04-10.54.22:264][  0]LogAnimTrails                             Log           
+[2023.04.04-10.54.22:264][  0]LogAnimMarkerSync                         Warning       
+[2023.04.04-10.54.22:264][  0]LogSkinWeightProfileManager               Warning       
+[2023.04.04-10.54.22:264][  0]LogAssetManager                           Log           
+[2023.04.04-10.54.22:264][  0]LogAsyncCompilation                       Log           
+[2023.04.04-10.54.22:264][  0]LogAudio                                  Display       
+[2023.04.04-10.54.22:264][  0]LogAudioDebug                             Display       
+[2023.04.04-10.54.22:264][  0]LogAudioDerivedData                       Log           
+[2023.04.04-10.54.22:264][  0]LogAudioStreamCaching                     Display       
+[2023.04.04-10.54.22:264][  0]LogBatchedElements                        Log           
+[2023.04.04-10.54.22:264][  0]LogBlueprint                              Warning       
+[2023.04.04-10.54.22:264][  0]LogBlueprintFuncLibrary                   Log           
+[2023.04.04-10.54.22:264][  0]LogSkeletalControl                        Warning       
+[2023.04.04-10.54.22:264][  0]LogBrush                                  Log           
+[2023.04.04-10.54.22:264][  0]LogCameraAnim                             Log           
+[2023.04.04-10.54.22:264][  0]LogCamera                                 Log           
+[2023.04.04-10.54.22:264][  0]LogCameraShake                            Warning       
+[2023.04.04-10.54.22:264][  0]LogCameraPhotography                      Log           
+[2023.04.04-10.54.22:264][  0]LogCharacter                              Log           
+[2023.04.04-10.54.22:264][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:264][  0]LogChartCreation                          Log           
+[2023.04.04-10.54.22:264][  0]LogCheatManager                           Log           
+[2023.04.04-10.54.22:264][  0]LogCollisionCommands                      Log           
+[2023.04.04-10.54.22:264][  0]LogCollisionProfile                       Warning       
+[2023.04.04-10.54.22:264][  0]LogCollision                              Warning       
+[2023.04.04-10.54.22:264][  0]LogPluginCommandlet                       Log           
+[2023.04.04-10.54.22:264][  0]LogActorComponent                         Log           
+[2023.04.04-10.54.22:264][  0]LogBrushComponent                         Log           
+[2023.04.04-10.54.22:264][  0]LogCharacterMovement                      Log           
+[2023.04.04-10.54.22:264][  0]LogNavMeshMovement                        Log           
+[2023.04.04-10.54.22:264][  0]LogCharacterNetSmoothing                  Log           
+[2023.04.04-10.54.22:264][  0]LogChildActorComponent                    Warning       
+[2023.04.04-10.54.22:264][  0]LogInterpToMovementComponent              Log           
+[2023.04.04-10.54.22:264][  0]LogLODSync                                Warning       
+[2023.04.04-10.54.22:264][  0]LogMaterialParameter                      Warning       
+[2023.04.04-10.54.22:264][  0]LogMovement                               Log           
+[2023.04.04-10.54.22:264][  0]LogPawnMovementComponent                  Log           
+[2023.04.04-10.54.22:264][  0]LogPrimitiveComponent                     Log           
+[2023.04.04-10.54.22:264][  0]LogProjectileMovement                     Log           
+[2023.04.04-10.54.22:264][  0]LogReflectionCaptureComponent             Log           
+[2023.04.04-10.54.22:264][  0]LogSceneComponent                         Log           
+[2023.04.04-10.54.22:264][  0]LogSkinnedMeshComp                        Log           
+[2023.04.04-10.54.22:264][  0]LogController                             Warning       
+[2023.04.04-10.54.22:264][  0]LogPath                                   Warning       
+[2023.04.04-10.54.22:264][  0]LogCoreSettings                           Log           
+[2023.04.04-10.54.22:264][  0]LogCurveTable                             Log           
+[2023.04.04-10.54.22:264][  0]LogNet                                    Log           
+[2023.04.04-10.54.22:264][  0]LogRep                                    Log           
+[2023.04.04-10.54.22:264][  0]LogNetPlayerMovement                      Warning       
+[2023.04.04-10.54.22:264][  0]LogNetTraffic                             Warning       
+[2023.04.04-10.54.22:264][  0]LogRepTraffic                             Warning       
+[2023.04.04-10.54.22:264][  0]LogNetDormancy                            Warning       
+[2023.04.04-10.54.22:264][  0]LogSecurity                               Warning       
+[2023.04.04-10.54.22:264][  0]LogNetPartialBunch                        Warning       
+[2023.04.04-10.54.22:264][  0]LogDataTable                              Log           
+[2023.04.04-10.54.22:264][  0]LogDemo                                   Log           
+[2023.04.04-10.54.22:264][  0]LogDeviceProfile                          Log           
+[2023.04.04-10.54.22:264][  0]LogDeviceProfileManager                   Log           
+[2023.04.04-10.54.22:264][  0]LogDistributions                          Warning       
+[2023.04.04-10.54.22:264][  0]LogEdGraph                                Log           
+[2023.04.04-10.54.22:264][  0]LogEngineService                          Log           
+[2023.04.04-10.54.22:264][  0]LogEngineSessionManager                   Log           
+[2023.04.04-10.54.22:264][  0]LogEngineUtils                            Log           
+[2023.04.04-10.54.22:264][  0]LogAutoDestroySubsystem                   Log           
+[2023.04.04-10.54.22:264][  0]LogViewportStatsSubsystem                 Log           
+[2023.04.04-10.54.22:264][  0]LogFontFace                               Log           
+[2023.04.04-10.54.22:264][  0]LogSpawnActorTimer                        Log           
+[2023.04.04-10.54.22:264][  0]LogHapticTest                             Display       
+[2023.04.04-10.54.22:264][  0]LogGameMode                               Log           
+[2023.04.04-10.54.22:264][  0]LogGameNetworkManager                     Log           
+[2023.04.04-10.54.22:264][  0]LogGameSession                            Log           
+[2023.04.04-10.54.22:264][  0]LogGameState                              Log           
+[2023.04.04-10.54.22:264][  0]LogQuadTree                               Warning       
+[2023.04.04-10.54.22:264][  0]LogGeomTools                              Log           
+[2023.04.04-10.54.22:264][  0]LogSkinCache                              Log           
+[2023.04.04-10.54.22:264][  0]LogGPUSort                                Log           
+[2023.04.04-10.54.22:264][  0]LogHDRLoader                              Log           
+[2023.04.04-10.54.22:264][  0]LogHighResScreenshot                      Log           
+[2023.04.04-10.54.22:264][  0]LogHUD                                    Log           
+[2023.04.04-10.54.22:264][  0]LogImageUtils                             Log           
+[2023.04.04-10.54.22:264][  0]LogInGamePerformanceTracker               Log           
+[2023.04.04-10.54.22:264][  0]LogMatinee                                Warning       
+[2023.04.04-10.54.22:264][  0]LogISMPartition                           Log           
+[2023.04.04-10.54.22:265][  0]LogArray                                  Warning       
+[2023.04.04-10.54.22:265][  0]LogLevel                                  Log           
+[2023.04.04-10.54.22:265][  0]LogLevelActorContainer                    Log           
+[2023.04.04-10.54.22:265][  0]LogLevelInstance                          Log           
+[2023.04.04-10.54.22:265][  0]LogLevelStreaming                         Log           
+[2023.04.04-10.54.22:265][  0]LogLightMap                               Log           
+[2023.04.04-10.54.22:265][  0]LogLightWeightInstance                    Warning       
+[2023.04.04-10.54.22:265][  0]LogPlayerManagement                       Error         
+[2023.04.04-10.54.22:265][  0]LogHLOD                                   Log           
+[2023.04.04-10.54.22:265][  0]LogMaterial                               Log           
+[2023.04.04-10.54.22:265][  0]LogModel                                  Log           
+[2023.04.04-10.54.22:265][  0]LogModelComponent                         Log           
+[2023.04.04-10.54.22:265][  0]LogNavigationPoint                        Log           
+[2023.04.04-10.54.22:265][  0]LogNetSyncLoads                           Log           
+[2023.04.04-10.54.22:265][  0]LogObjectCache                            Log           
+[2023.04.04-10.54.22:265][  0]LogODSC                                   Log           
+[2023.04.04-10.54.22:265][  0]LogHandshake                              Log           
+[2023.04.04-10.54.22:265][  0]LogParticles                              Log           
+[2023.04.04-10.54.22:265][  0]LogDamage                                 Warning       
+[2023.04.04-10.54.22:265][  0]LogPawn                                   Warning       
+[2023.04.04-10.54.22:265][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:265][  0]LogPhysics                                Warning       
+[2023.04.04-10.54.22:265][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:265][  0]USkeletalMeshSimulationComponentLogging   NoLogging     
+[2023.04.04-10.54.22:265][  0]LogFPhysScene_ChaosSolver                 Log           
+[2023.04.04-10.54.22:265][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:265][  0]LogPhysicalMaterialMask                   Log           
+[2023.04.04-10.54.22:265][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:265][  0]LogGlobalField                            Log           
+[2023.04.04-10.54.22:265][  0]LogPlayerCameraManager                    Log           
+[2023.04.04-10.54.22:265][  0]LogPlayerController                       Log           
+[2023.04.04-10.54.22:265][  0]LogPolygon                                Log           
+[2023.04.04-10.54.22:265][  0]LogHealthSnapshot                         Log           
+[2023.04.04-10.54.22:265][  0]LogLeakDetector                           Log           
+[2023.04.04-10.54.22:265][  0]LogNaniteStreaming                        Log           
+[2023.04.04-10.54.22:265][  0]LogSkeletalMeshLODImporterData            Log           
+[2023.04.04-10.54.22:265][  0]LogSubsurfaceProfile                      Log           
+[2023.04.04-10.54.22:265][  0]LogRepProperties                          Warning       
+[2023.04.04-10.54.22:265][  0]LogRepPropertiesBackCompat                Warning       
+[2023.04.04-10.54.22:265][  0]LogRuntimeOptionsBase                     Log           
+[2023.04.04-10.54.22:265][  0]LogSceneUtils                             Log           
+[2023.04.04-10.54.22:265][  0]LogBufferVisualization                    Log           
+[2023.04.04-10.54.22:265][  0]LogNaniteVisualization                    Log           
+[2023.04.04-10.54.22:265][  0]LogLumenVisualization                     Log           
+[2023.04.04-10.54.22:265][  0]LogVirtualShadowMapVisualization          Log           
+[2023.04.04-10.54.22:265][  0]LogMultiView                              Log           
+[2023.04.04-10.54.22:265][  0]LogScriptPlatformInterface                Log           
+[2023.04.04-10.54.22:265][  0]LogShaderCompilers                        Log           
+[2023.04.04-10.54.22:265][  0]LogSkeletalMesh                           Log           
+[2023.04.04-10.54.22:265][  0]LogSkeletalMeshEditorData                 Log           
+[2023.04.04-10.54.22:265][  0]LogSkeletalMeshLODSettings                Warning       
+[2023.04.04-10.54.22:265][  0]LogSkeletalGPUSkinMesh                    Warning       
+[2023.04.04-10.54.22:265][  0]LogViewport                               Log           
+[2023.04.04-10.54.22:265][  0]LogSlateSoundDevice                       Log           
+[2023.04.04-10.54.22:265][  0]LogAudioConcurrency                       Log           
+[2023.04.04-10.54.22:265][  0]LogSoundNodeGroupControl                  Log           
+[2023.04.04-10.54.22:265][  0]LogStaticMesh                             Log           
+[2023.04.04-10.54.22:265][  0]LogStreamableManager                      Log           
+[2023.04.04-10.54.22:265][  0]TextureStreamingBuild                     Log           
+[2023.04.04-10.54.22:265][  0]LogContentStreaming                       Log           
+[2023.04.04-10.54.22:265][  0]LogSubsystemCollection                    Log           
+[2023.04.04-10.54.22:265][  0]LogSubtitle                               Log           
+[2023.04.04-10.54.22:265][  0]LogSystemSettings                         Log           
+[2023.04.04-10.54.22:265][  0]LogEngineAutomationLatentCommand          Log           
+[2023.04.04-10.54.22:265][  0]LogEditorAutomationTests                  Log           
+[2023.04.04-10.54.22:265][  0]LogEngineAutomationTests                  Log           
+[2023.04.04-10.54.22:265][  0]LogBaseAutomationTests                    Log           
+[2023.04.04-10.54.22:265][  0]LogNetworkAutomationTests                 Log           
+[2023.04.04-10.54.22:265][  0]LogHackAutomationTests                    Log           
+[2023.04.04-10.54.22:265][  0]LogTexture                                Log           
+[2023.04.04-10.54.22:265][  0]LogTick                                   Log           
+[2023.04.04-10.54.22:265][  0]LogTimeline                               Log           
+[2023.04.04-10.54.22:265][  0]TraceFiltering                            Display       
+[2023.04.04-10.54.22:265][  0]LogClient                                 Log           
+[2023.04.04-10.54.22:265][  0]LogEngine                                 Log           
+[2023.04.04-10.54.22:265][  0]LogExporter                               Log           
+[2023.04.04-10.54.22:265][  0]LogCanvas                                 Log           
+[2023.04.04-10.54.22:265][  0]LogVectorField                            Error         
+[2023.04.04-10.54.22:265][  0]LogVisual                                 Display       
+[2023.04.04-10.54.22:265][  0]LogVolume                                 Log           
+[2023.04.04-10.54.22:265][  0]LogVTDiskCache                            Log           
+[2023.04.04-10.54.22:265][  0]LogWorld                                  Log           
+[2023.04.04-10.54.22:265][  0]LogSpawn                                  Warning       
+[2023.04.04-10.54.22:265][  0]LogWorldComposition                       Log           
+[2023.04.04-10.54.22:265][  0]LogHLODBuilder                            Log           
+[2023.04.04-10.54.22:265][  0]LogHLODLayer                              Log           
+[2023.04.04-10.54.22:265][  0]LogHLODSubsystem                          Log           
+[2023.04.04-10.54.22:265][  0]LogWorldPartitionRuntimeSpatialHashHLOD   Log           
+[2023.04.04-10.54.22:265][  0]LogWorldPartitionHelpers                  Log           
+[2023.04.04-10.54.22:265][  0]LogWorldPartition                         Log           
+[2023.04.04-10.54.22:265][  0]LogWorldPartitionMiniMapHelper            VeryVerbose   
+[2023.04.04-10.54.22:265][  0]LogWorldSettings                          Log           
+[2023.04.04-10.54.22:265][  0]LogMoviePlayer                            Log           
+[2023.04.04-10.54.22:265][  0]LogPatchGeneration                        Log           
+[2023.04.04-10.54.22:265][  0]LogBPSInstallerConfig                     Log           
+[2023.04.04-10.54.22:265][  0]LogMergeManifests                         Log           
+[2023.04.04-10.54.22:265][  0]LogBuildPatchServices                     Log           
+[2023.04.04-10.54.22:265][  0]LogVerifyChunkData                        Log           
+[2023.04.04-10.54.22:265][  0]LogDataCompactifier                       Log           
+[2023.04.04-10.54.22:265][  0]LogManifestData                           Log           
+[2023.04.04-10.54.22:265][  0]LogManifestUObject                        Log           
+[2023.04.04-10.54.22:265][  0]LogDiffManifests                          Log           
+[2023.04.04-10.54.22:265][  0]LogDataEnumeration                        Log           
+[2023.04.04-10.54.22:265][  0]LogChunkDatabaseWriter                    Log           
+[2023.04.04-10.54.22:265][  0]LogChunkDeltaOptimiser                    Log           
+[2023.04.04-10.54.22:265][  0]LogChunkWriter                            Log           
+[2023.04.04-10.54.22:265][  0]LogCloudEnumeration                       Log           
+[2023.04.04-10.54.22:265][  0]LogDeltaEnumeration                       Log           
+[2023.04.04-10.54.22:265][  0]LogBuildStreamer                          Log           
+[2023.04.04-10.54.22:265][  0]LogFileAttributesParser                   Log           
+[2023.04.04-10.54.22:265][  0]LogManifestBuilder                        Log           
+[2023.04.04-10.54.22:266][  0]LogManifestBuildStreamer                  Log           
+[2023.04.04-10.54.22:266][  0]LogPackageChunkData                       Log           
+[2023.04.04-10.54.22:266][  0]LogChunkDbChunkSource                     Warning       
+[2023.04.04-10.54.22:266][  0]LogChunkReferenceTracker                  Warning       
+[2023.04.04-10.54.22:266][  0]LogCloudChunkSource                       Log           
+[2023.04.04-10.54.22:266][  0]LogDownloadConnectionCount                Log           
+[2023.04.04-10.54.22:266][  0]LogDownloadService                        Warning       
+[2023.04.04-10.54.22:266][  0]LogInstallChunkSource                     Warning       
+[2023.04.04-10.54.22:266][  0]LogOptimisedDelta                         Log           
+[2023.04.04-10.54.22:266][  0]LogPrerequisites                          Log           
+[2023.04.04-10.54.22:266][  0]LogFileOperationTracker                   Warning       
+[2023.04.04-10.54.22:266][  0]LogVerifier                               Warning       
+[2023.04.04-10.54.22:266][  0]LogPreLoadScreenManager                   Log           
+[2023.04.04-10.54.22:266][  0]LogInstallBundleManager                   Display       
+[2023.04.04-10.54.22:266][  0]LogLaunchWindows                          Log           
+[2023.04.04-10.54.22:266][  0]LogStorageServerConnection                Log           
+[2023.04.04-10.54.22:266][  0]LogStorageServerPlatformFile              Log           
+[2023.04.04-10.54.22:266][  0]LogNetworkPlatformFile                    Log           
+[2023.04.04-10.54.22:266][  0]LogStreamingPlatformFile                  Log           
+[2023.04.04-10.54.22:266][  0]LogTextureCompressor                      Log           
+[2023.04.04-10.54.22:266][  0]LogMessageLog                             Log           
+[2023.04.04-10.54.22:266][  0]LogAudioEditor                            Log           
+[2023.04.04-10.54.22:266][  0]LogSoundClassEditor                       Log           
+[2023.04.04-10.54.22:266][  0]LogSoundSubmixEditor                      Log           
+[2023.04.04-10.54.22:266][  0]LogFastBuildController                    Log           
+[2023.04.04-10.54.22:266][  0]LogFastBuildJobProcessor                  Log           
+[2023.04.04-10.54.22:266][  0]LogXGEController                          Log           
+[2023.04.04-10.54.22:266][  0]LogPlatformCryptoOpenSSL                  Warning       
+[2023.04.04-10.54.22:266][  0]PixWinPlugin                              Log           
+[2023.04.04-10.54.22:266][  0]LogVariantContent                         Log           
+[2023.04.04-10.54.22:266][  0]LogDatasmithContent                       Log           
+[2023.04.04-10.54.22:266][  0]LogChaosCloth                             Log           
+[2023.04.04-10.54.22:266][  0]LogNiagaraShaderCompiler                  Log           
+[2023.04.04-10.54.22:266][  0]LogExrReaderGpu                           Log           
+[2023.04.04-10.54.22:266][  0]LogWmfMediaFactory                        Log           
+[2023.04.04-10.54.22:266][  0]LogWmfMedia                               Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineParty                            Log           
+[2023.04.04-10.54.22:266][  0]LogOnline                                 Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineGame                             Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineChat                             Log           
+[2023.04.04-10.54.22:266][  0]LogVoiceEngine                            Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineVoice                            Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineSession                          Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineUser                             Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineFriend                           Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineIdentity                         Log           
+[2023.04.04-10.54.22:266][  0]LogOnlinePresence                         Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineExternalUI                       Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineAchievements                     Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineLeaderboard                      Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineCloud                            Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineTitleFile                        Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineEntitlement                      Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineEvents                           Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineSharing                          Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineStore                            Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineStoreV2                          Log           
+[2023.04.04-10.54.22:266][  0]LogOnlinePurchase                         Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineTournament                       Display       
+[2023.04.04-10.54.22:266][  0]LogOnlineStats                            Log           
+[2023.04.04-10.54.22:266][  0]LogWebSockets                             Warning       
+[2023.04.04-10.54.22:266][  0]LogXmpp                                   Warning       
+[2023.04.04-10.54.22:266][  0]LogVoice                                  Display       
+[2023.04.04-10.54.22:266][  0]LogVoiceEncode                            Display       
+[2023.04.04-10.54.22:266][  0]LogVoiceDecode                            Display       
+[2023.04.04-10.54.22:266][  0]LogVoiceCapture                           Warning       
+[2023.04.04-10.54.22:266][  0]LogBeacon                                 Log           
+[2023.04.04-10.54.22:266][  0]LogPartyBeacon                            Log           
+[2023.04.04-10.54.22:266][  0]LogSpectatorBeacon                        Log           
+[2023.04.04-10.54.22:266][  0]OSSUtilsTestLog                           VeryVerbose   
+[2023.04.04-10.54.22:266][  0]LogChunkDownloader                        Log           
+[2023.04.04-10.54.22:266][  0]LogVectorVM                               VeryVerbose   
+[2023.04.04-10.54.22:266][  0]LogNiagara                                Log           
+[2023.04.04-10.54.22:266][  0]LogRigidMeshCollision                     Log           
+[2023.04.04-10.54.22:266][  0]LogNiagaraDebuggerClient                  Log           
+[2023.04.04-10.54.22:266][  0]LogGeoCaStreamingCodecV1                  Verbose       
+[2023.04.04-10.54.22:266][  0]LogBlankProgram                           Log           
+[2023.04.04-10.54.22:266][  0]LogGeometryCache                          Log           
+[2023.04.04-10.54.22:266][  0]LogGeoCaStreaming                         Verbose       
+[2023.04.04-10.54.22:266][  0]LogGeoCaStreamingNormalCompression        Verbose       
+[2023.04.04-10.54.22:266][  0]LogGroomBindingBuilder                    Log           
+[2023.04.04-10.54.22:266][  0]LogGroomBuilder                           Log           
+[2023.04.04-10.54.22:266][  0]LogGroomCacheStreaming                    Verbose       
+[2023.04.04-10.54.22:266][  0]LogGroomManager                           Log           
+[2023.04.04-10.54.22:266][  0]LogGroomTextureBuilder                    Log           
+[2023.04.04-10.54.22:266][  0]LogHairStrands                            Log           
+[2023.04.04-10.54.22:266][  0]LogPhysicsAsset                           Log           
+[2023.04.04-10.54.22:266][  0]LogPressureGrid                           Log           
+[2023.04.04-10.54.22:266][  0]LogVelocityGrid                           Log           
+[2023.04.04-10.54.22:266][  0]LogOnlineServices                         Log           
+[2023.04.04-10.54.22:266][  0]LogAVEncoder                              Log           
+[2023.04.04-10.54.22:266][  0]LogVideoDecoder                           Log           
+[2023.04.04-10.54.22:266][  0]LogVideoEncoder                           Log           
+[2023.04.04-10.54.22:266][  0]GameplayMediaEncoder                      Log           
+[2023.04.04-10.54.22:266][  0]WMF                                       Log           
+[2023.04.04-10.54.22:266][  0]HighlightRecorder                         Log           
+[2023.04.04-10.54.22:266][  0]WindowsVideoRecordingSystem               VeryVerbose   
+[2023.04.04-10.54.22:267][  0]MP4                                       Log           
+[2023.04.04-10.54.22:267][  0]WmfRingBuffer                             Log           
+[2023.04.04-10.54.22:267][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:267][  0]FSC_Log                                   NoLogging     
+[2023.04.04-10.54.22:267][  0]AFA_Log                                   NoLogging     
+[2023.04.04-10.54.22:267][  0]FSC_Log                                   NoLogging     
+[2023.04.04-10.54.22:267][  0]FSSP_Log                                  NoLogging     
+[2023.04.04-10.54.22:267][  0]LogLauncherProfile                        Log           
+[2023.04.04-10.54.22:267][  0]LogTurnkeySupport                         Log           
+[2023.04.04-10.54.22:267][  0]LogTextureFormatManager                   Log           
+[2023.04.04-10.54.22:267][  0]LogTextureBuildFunction                   Log           
+[2023.04.04-10.54.22:267][  0]LogTextureFormatASTC                      Log           
+[2023.04.04-10.54.22:267][  0]LogTextureFormatIntelISPCTexComp          Log           
+[2023.04.04-10.54.22:267][  0]LogTextureFormatDXT                       Log           
+[2023.04.04-10.54.22:267][  0]LogTextureFormatETC2                      Log           
+[2023.04.04-10.54.22:267][  0]LogTextureFormatUncompressed              Log           
+[2023.04.04-10.54.22:267][  0]LogTextureFormatOodle                     Log           
+[2023.04.04-10.54.22:267][  0]LogOodleDDS                               Log           
+[2023.04.04-10.54.22:267][  0]LogHoloLensTargetPlatform                 Log           
+[2023.04.04-10.54.22:267][  0]LogIOSDeviceHelper                        Log           
+[2023.04.04-10.54.22:267][  0]LogCookedEditorTargetPlatform             Log           
+[2023.04.04-10.54.22:267][  0]LogAudioFormatADPCM                       Log           
+[2023.04.04-10.54.22:267][  0]LogD3D11ShaderCompiler                    Log           
+[2023.04.04-10.54.22:267][  0]LogD3D12ShaderCompiler                    Log           
+[2023.04.04-10.54.22:267][  0]LogOpenGLShaderCompiler                   Log           
+[2023.04.04-10.54.22:267][  0]LogVulkanShaderCompiler                   Log           
+[2023.04.04-10.54.22:267][  0]LogZipArchiveWriter                       Display       
+[2023.04.04-10.54.22:267][  0]LogMetalCompilerSetup                     Log           
+[2023.04.04-10.54.22:267][  0]LogMetalShaderCompiler                    Log           
+[2023.04.04-10.54.22:267][  0]LogVVMBackend                             VeryVerbose   
+[2023.04.04-10.54.22:267][  0]LogVectorVMShaderCompiler                 Log           
+[2023.04.04-10.54.22:267][  0]LogMeshUtilities                          Verbose       
+[2023.04.04-10.54.22:267][  0]LogMeshMerging                            Verbose       
+[2023.04.04-10.54.22:267][  0]LogMeshReduction                          Verbose       
+[2023.04.04-10.54.22:267][  0]LogQuadric                                Log           
+[2023.04.04-10.54.22:267][  0]LogQuadricSimplifier                      Log           
+[2023.04.04-10.54.22:267][  0]LogProxyQuadric                           Log           
+[2023.04.04-10.54.22:267][  0]LogProxyLODMeshReduction                  Log           
+[2023.04.04-10.54.22:267][  0]LogSkeletalMeshReduction                  Log           
+[2023.04.04-10.54.22:267][  0]LogMeshBoneReduction                      Log           
+[2023.04.04-10.54.22:267][  0]LogMeshDescriptionBuildStatistic          Log           
+[2023.04.04-10.54.22:267][  0]LogSkeletalMeshBuilder                    Log           
+[2023.04.04-10.54.22:267][  0]LogStaticMeshBuilder                      Log           
+[2023.04.04-10.54.22:267][  0]LogMessaging                              Log           
+[2023.04.04-10.54.22:267][  0]LogCollisionAnalyzer                      Log           
+[2023.04.04-10.54.22:267][  0]LogAutomationTestExcludelist              Log           
+[2023.04.04-10.54.22:267][  0]LogAutomationTest                         Warning       
+[2023.04.04-10.54.22:267][  0]LogAutomationCommandLine                  Log           
+[2023.04.04-10.54.22:267][  0]LogAutomationController                   Log           
+[2023.04.04-10.54.22:267][  0]LogAutomationControllerSettings           Log           
+[2023.04.04-10.54.22:267][  0]LogAutomationTelemetry                    Log           
+[2023.04.04-10.54.22:267][  0]BlueprintAssertion                        Error         
+[2023.04.04-10.54.22:267][  0]AutomationFunctionLibrary                 Log           
+[2023.04.04-10.54.22:267][  0]LogFunctionalTest                         Log           
+[2023.04.04-10.54.22:267][  0]GroundTruthLog                            Log           
+[2023.04.04-10.54.22:267][  0]LogScreenshotFunctionalTest               Log           
+[2023.04.04-10.54.22:267][  0]LogFunctionalTesting                      Log           
+[2023.04.04-10.54.22:267][  0]LogAIGraph                                Display       
+[2023.04.04-10.54.22:267][  0]LogBehaviorTreeEditor                     Log           
+[2023.04.04-10.54.22:267][  0]LogBlackboardEditor                       Warning       
+[2023.04.04-10.54.22:267][  0]LogTutorials                              Log           
+[2023.04.04-10.54.22:267][  0]LogEditorUtilityBlueprint                 Log           
+[2023.04.04-10.54.22:267][  0]LogCollectionManager                      Log           
+[2023.04.04-10.54.22:267][  0]MainFrameActions                          Log           
+[2023.04.04-10.54.22:267][  0]LogMainFrame                              Log           
+[2023.04.04-10.54.22:267][  0]LogHotReload                              Log           
+[2023.04.04-10.54.22:267][  0]LogOverlay                                Log           
+[2023.04.04-10.54.22:267][  0]LogOverlayEditor                          Log           
+[2023.04.04-10.54.22:267][  0]LogClothingAssetFactory                   Log           
+[2023.04.04-10.54.22:267][  0]LogPaper2D                                Verbose       
+[2023.04.04-10.54.22:267][  0]LogEnvironmentQueryEditor                 Log           
+[2023.04.04-10.54.22:267][  0]LogRigVM                                  Log           
+[2023.04.04-10.54.22:267][  0]LogVisualGraphUtils                       Log           
+[2023.04.04-10.54.22:267][  0]LogRigVMDeveloper                         Log           
+[2023.04.04-10.54.22:267][  0]LogControlRig                             Log           
+[2023.04.04-10.54.22:267][  0]ControlRigProfilingLog                    Log           
+[2023.04.04-10.54.22:267][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:267][  0]LogRigUnit                                Log           
+[2023.04.04-10.54.22:267][  0]LogControlRigCompiler                     Log           
+[2023.04.04-10.54.22:267][  0]LogControlRigDeveloper                    Log           
+[2023.04.04-10.54.22:267][  0]LogPBIKSolver                             Warning       
+[2023.04.04-10.54.22:267][  0]LogIKRig                                  Warning       
+[2023.04.04-10.54.22:267][  0]LogSkeletalMeshPersonaMeshDetail          Log           
+[2023.04.04-10.54.22:267][  0]LogTemplateSequence                       Log           
+[2023.04.04-10.54.22:267][  0]LogMatineeCameraShake                     Warning       
+[2023.04.04-10.54.22:267][  0]LogSignificance                           Log           
+[2023.04.04-10.54.22:267][  0]LogAnimationSharing                       Log           
+[2023.04.04-10.54.22:267][  0]LogAssetManagerEditor                     Log           
+[2023.04.04-10.54.22:267][  0]LoadingProfiler                           Log           
+[2023.04.04-10.54.22:267][  0]MemoryProfiler                            Log           
+[2023.04.04-10.54.22:267][  0]NetworkingProfiler                        Log           
+[2023.04.04-10.54.22:267][  0]TimingProfilerTests                       Log           
+[2023.04.04-10.54.22:267][  0]TimingProfiler                            Log           
+[2023.04.04-10.54.22:267][  0]TraceInsights                             Verbose       
+[2023.04.04-10.54.22:267][  0]LogDataValidation                         Warning       
+[2023.04.04-10.54.22:267][  0]LogContentValidation                      Log           
+[2023.04.04-10.54.22:267][  0]LogNiagaraDumpBytecodeCommandlet          Log           
+[2023.04.04-10.54.22:267][  0]LogNiagaraSystemAuditCommandlet           Log           
+[2023.04.04-10.54.22:267][  0]LogNiagaraCompiler                        VeryVerbose   
+[2023.04.04-10.54.22:267][  0]LogNiagaraDebugger                        Log           
+[2023.04.04-10.54.22:267][  0]LogNiagaraEditor                          Log           
+[2023.04.04-10.54.22:267][  0]LogIKSolver                               Warning       
+[2023.04.04-10.54.22:267][  0]LogPythonOnlineDocsCommandlet             Log           
+[2023.04.04-10.54.22:267][  0]LogPythonScriptCommandlet                 Log           
+[2023.04.04-10.54.22:267][  0]LogPythonRemoteExecution                  Log           
+[2023.04.04-10.54.22:267][  0]LogPython                                 Log           
+[2023.04.04-10.54.22:267][  0]LogTcpMessaging                           Log           
+[2023.04.04-10.54.22:267][  0]LogUdpMessaging                           Log           
+[2023.04.04-10.54.22:267][  0]LogDataRegistry                           Log           
+[2023.04.04-10.54.22:267][  0]LogAbilitySystemComponent                 Log           
+[2023.04.04-10.54.22:267][  0]LogAbilitySystem                          Display       
+[2023.04.04-10.54.22:267][  0]VLogAbilitySystem                         Display       
+[2023.04.04-10.54.22:267][  0]LogGameplayEffects                        Display       
+[2023.04.04-10.54.22:267][  0]LogGameplayCueNotify                      Log           
+[2023.04.04-10.54.22:267][  0]LogGameplayCueTranslator                  Display       
+[2023.04.04-10.54.22:267][  0]LogAttributeDetails                       Log           
+[2023.04.04-10.54.22:268][  0]LogGameplayCueDetails                     Log           
+[2023.04.04-10.54.22:268][  0]LogGameplayEffectDetails                  Log           
+[2023.04.04-10.54.22:268][  0]LogAudioSynesthesiaCore                   Log           
+[2023.04.04-10.54.22:268][  0]LogAudioAnalyzer                          Log           
+[2023.04.04-10.54.22:268][  0]LogAudioSynesthesia                       Log           
+[2023.04.04-10.54.22:268][  0]LogMeshPaintSkeletalMeshAdapter           Log           
+[2023.04.04-10.54.22:268][  0]LogMeshPaintEdMode                        Log           
+[2023.04.04-10.54.22:268][  0]LogMeshPaintSkeletalMeshAdapter           Log           
+[2023.04.04-10.54.22:268][  0]LogPaperCBExtensions                      Log           
+[2023.04.04-10.54.22:268][  0]LogPaper2DEditor                          Log           
+[2023.04.04-10.54.22:268][  0]LogPaperSpriteSheetImporter               Verbose       
+[2023.04.04-10.54.22:268][  0]LogPaperTiledImporter                     Verbose       
+[2023.04.04-10.54.22:268][  0]LogBlendSpaceMotionAnalysis               Log           
+[2023.04.04-10.54.22:268][  0]LogLocomotionAnalysis                     Log           
+[2023.04.04-10.54.22:268][  0]LogRootMotionAnalysis                     Log           
+[2023.04.04-10.54.22:268][  0]OodleNetworkHandlerComponentLog           Log           
+[2023.04.04-10.54.22:268][  0]LogCLionAccessor                          Log           
+[2023.04.04-10.54.22:268][  0]LogPluginUtils                            Log           
+[2023.04.04-10.54.22:268][  0]UnrealInsightsInterface                   Log           
+[2023.04.04-10.54.22:268][  0]LogCryptoKeys                             Log           
+[2023.04.04-10.54.22:268][  0]LogCryptoKeysCommandlet                   Log           
+[2023.04.04-10.54.22:268][  0]LogCryptoKeys                             Log           
+[2023.04.04-10.54.22:268][  0]LogVSCodeAccessor                         Log           
+[2023.04.04-10.54.22:268][  0]LogVSAccessor                             Log           
+[2023.04.04-10.54.22:268][  0]LogSkeletalMeshEditor                     Log           
+[2023.04.04-10.54.22:268][  0]LogSkeletalMeshEditorSubsystem            Log           
+[2023.04.04-10.54.22:268][  0]LogStaticMeshEditor                       Log           
+[2023.04.04-10.54.22:268][  0]LogStaticMeshEditorSubsystem              Log           
+[2023.04.04-10.54.22:268][  0]LogStaticMeshEditorTools                  Log           
+[2023.04.04-10.54.22:268][  0]LogEditorPythonExecuter                   Log           
+[2023.04.04-10.54.22:268][  0]LogEditorScripting                        Log           
+[2023.04.04-10.54.22:268][  0]MaterialAnalyzer                          Log           
+[2023.04.04-10.54.22:268][  0]LogMeshSimplification                     Log           
+[2023.04.04-10.54.22:268][  0]LogGeometryFlowMeshProcessing             Log           
+[2023.04.04-10.54.22:268][  0]LogMeshLODToolset                         Log           
+[2023.04.04-10.54.22:268][  0]LogStylusInput                            Log           
+[2023.04.04-10.54.22:268][  0]LogStylusInput                            Log           
+[2023.04.04-10.54.22:268][  0]LogStylusInput                            Log           
+[2023.04.04-10.54.22:268][  0]LogPluginWizard                           Log           
+[2023.04.04-10.54.22:268][  0]LogLevelSequenceEditor                    Log           
+[2023.04.04-10.54.22:268][  0]LogControlRigEditor                       Log           
+[2023.04.04-10.54.22:268][  0]LogSpeedTreeImportData                    Log           
+[2023.04.04-10.54.22:268][  0]LogSpeedTreeImport                        Log           
+[2023.04.04-10.54.22:268][  0]LogVariantManagerContentEditor            Log           
+[2023.04.04-10.54.22:268][  0]LogScreenshotComparison                   Log           
+[2023.04.04-10.54.22:268][  0]LogChaosClothEditor                       Verbose       
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]AGeometryCollectionActorLogging           Log           
+[2023.04.04-10.54.22:268][  0]LogGeometryCollectionCache                Log           
+[2023.04.04-10.54.22:268][  0]UGCC_LOG                                  Error         
+[2023.04.04-10.54.22:268][  0]LogGeometryCollectionDebugDrawActor       Log           
+[2023.04.04-10.54.22:268][  0]LogGeometryCollectionDebugDraw            Log           
+[2023.04.04-10.54.22:268][  0]LogGeoemtryCollectionClean                Verbose       
+[2023.04.04-10.54.22:268][  0]LogGeometryCollectionInternal             Log           
+[2023.04.04-10.54.22:268][  0]LogGeometryCollectionParticlesData        Log           
+[2023.04.04-10.54.22:268][  0]LSR_LOG                                   Log           
+[2023.04.04-10.54.22:268][  0]FGeometryCollectionSceneProxyLogging      Log           
+[2023.04.04-10.54.22:268][  0]USkeletalMeshSimulationComponentLogging   NoLogging     
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]LogGeometryCollectionFactories            Log           
+[2023.04.04-10.54.22:268][  0]UGeometryCollectionCommandsLogging        NoLogging     
+[2023.04.04-10.54.22:268][  0]UGeometryCollectionConversionLogging      Log           
+[2023.04.04-10.54.22:268][  0]LogGeometryCollectionSelectRigidBodyEdMode  Log           
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]LogPlanarCut                              Log           
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]LogFractureTool                           Log           
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]LogGeometryCollection                     Log           
+[2023.04.04-10.54.22:268][  0]LogPhysicsField                           Log           
+[2023.04.04-10.54.22:268][  0]AFFS_Log                                  Log           
+[2023.04.04-10.54.22:268][  0]UFEC_Log                                  NoLogging     
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]UManagedArrayLogging                      NoLogging     
+[2023.04.04-10.54.22:268][  0]LogApproximateActors                      Log           
+[2023.04.04-10.54.22:268][  0]LogOpenImageDenoise                       Log           
+[2023.04.04-10.54.22:268][  0]LogAbcImporter                            Verbose       
+[2023.04.04-10.54.22:268][  0]LogAlembicCommandlet                      Log           
+[2023.04.04-10.54.22:268][  0]LogAlembic                                Log           
+[2023.04.04-10.54.22:268][  0]LogVisualStudioTools                      Log           
+[2023.04.04-10.54.22:268][  0]LogAndroidPermission                      Log           
+[2023.04.04-10.54.22:268][  0]LogAssetTags                              Log           
+[2023.04.04-10.54.22:268][  0]LogAudioCaptureCore                       Log           
+[2023.04.04-10.54.22:268][  0]LogAudioCapture                           Log           
+[2023.04.04-10.54.22:268][  0]LogGooglePAD                              Log           
+[2023.04.04-10.54.22:268][  0]LogGroomCacheImporter                     Log           
+[2023.04.04-10.54.22:268][  0]LogHairImporter                           Log           
+[2023.04.04-10.54.22:268][  0]LogReimportHairStrandsFactory             Log           
+[2023.04.04-10.54.22:268][  0]LogMobilePatchingUtils                    Log           
+[2023.04.04-10.54.22:268][  0]LogProceduralComponent                    Log           
+[2023.04.04-10.54.22:268][  0]LogResonanceAudio                         Display       
+[2023.04.04-10.54.22:268][  0]LogTapDelay                               Log           
+[2023.04.04-10.54.22:268][  0]LogSynthesis                              Log           
+[2023.04.04-10.54.22:268][  0]LogSynthesisEditor                        Log           
+[2023.04.04-10.54.22:268][  0]LogNativeClassHierarchy                   Log           
+[2023.04.04-10.54.22:268][  0]LogInterchangeEditor                      Log           
+[2023.04.04-10.54.22:268][  0]LogInterchangeNodes                       Log           
+[2023.04.04-10.54.22:268][  0]LogInterchangeDispatcher                  Log           
+[2023.04.04-10.54.22:268][  0]LogInterchangeImport                      Log           
+[2023.04.04-10.54.22:268][  0]LogInterchangePipeline                    Log           
+[2023.04.04-10.54.22:268][  0]LogInterchangeFbxParser                   Log           
+[2023.04.04-10.54.22:268][  0]LogCEF3Utils                              Log           
+[2023.04.04-10.54.22:268][  0]LogCEFBrowser                             Log           
+[2023.04.04-10.54.22:268][  0]LogWebBrowser                             Log           
+[2023.04.04-10.54.22:268][  0]LogAudioSynesthesiaEditor                 Log           
+[2023.04.04-10.54.22:268][  0]LogAITestSuite                            Log           
+[2023.04.04-10.54.22:268][  0]LogBehaviorTreeTest                       Log           
+[2023.04.04-10.54.22:268][  0]LogLiveCoding                             Display       
+[2023.04.04-10.54.22:269][  0]LogLandscapeEdMode                        Log           
+[2023.04.04-10.54.22:269][  0]LogLandscapeTools                         Log           
+[2023.04.04-10.54.22:269][  0]LogLandscapeAutomationTests               Log           
+[2023.04.04-10.54.22:269][  0]LogAnimationEditor                        Log           
+[2023.04.04-10.54.22:269][  0]LogIKRigEditor                            Log           
+[2023.04.04-10.54.22:269][  0]LogBrushEditing                           Log           
+[2023.04.04-10.54.22:269][  0]LogEditorGeometry                         Log           
+[2023.04.04-10.54.22:269][  0]LogGeometryMode                           Log           
+[2023.04.04-10.54.22:269][  0]LogGeomModifier                           Log           
+[2023.04.04-10.54.22:269][  0]LogTextureAlignMode                       Log           
+[2023.04.04-10.54.22:269][  0]LogCharacterAI                            Verbose       
+[2023.04.04-10.54.22:269][  0]LogAndroidMediaFactory                    Log           
+[2023.04.04-10.54.22:269][  0]LogAvfMediaFactory                        Log           
+[2023.04.04-10.54.22:269][  0]LogImgMediaFactory                        Log           
+[2023.04.04-10.54.22:269][  0]LogOpenEXRWrapper                         Log           
+[2023.04.04-10.54.22:269][  0]LogImgMedia                               Log           
+[2023.04.04-10.54.22:269][  0]LogImgMediaEditor                         Log           
+[2023.04.04-10.54.22:269][  0]LogMediaPlayerEditor                      Log           
+[2023.04.04-10.54.22:269][  0]LogWebMMediaFactory                       Log           
+[2023.04.04-10.54.22:269][  0]LogMatineeToLevelSequence                 Verbose       
+[2023.04.04-10.54.22:269][  0]LogMicManager                             Log           
+[2023.04.04-10.54.22:269][  0]LogResonanceAudioEditor                   Warning       
+[2023.04.04-10.54.22:269][  0]Cmd                                       VeryVerbose   
+[2023.04.04-10.54.22:269][  0]LogVisualStudioTools: Display: Found 0 blueprints.
+[2023.04.04-10.54.22:269][  0]LogCore: Engine exit requested (reason: Commandlet VisualStudioToolsCommandlet_0 finished execution (result 0))
+[2023.04.04-10.54.22:269][  0]LogInit: Display: Finished.
+[2023.04.04-10.54.22:271][  0]LogInit: Display: 
+Execution of commandlet took:  0.38 seconds
+[2023.04.04-10.54.22:272][  0]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.04-10.54.22:272][  0]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.04.04-10.54.22:272][  0]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.04.04-10.54.22:273][  0]LogExit: Preparing to exit.
+[2023.04.04-10.54.22:282][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.04.04-10.54.22:335][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-10.54.22:347][  0]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.04.04-10.54.22:351][  0]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.04.04-10.54.22:351][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.04.04-10.54.22:351][  0]LogExit: Editor shut down
+[2023.04.04-10.54.22:385][  0]LogExit: Object subsystem successfully closed.
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (714)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module GooglePADEditor (712)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (710)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (708)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (706)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (704)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (702)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (700)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (698)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (696)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (694)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (692)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (690)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (688)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module SequenceRecorder (687)
+[2023.04.04-10.54.22:419][  0]LogModuleManager: Shutting down and abandoning module Persona (686)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (685)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module AnimGraph (683)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (678)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (676)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (674)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (672)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (670)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (668)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module PlanarCut (666)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module CharacterAI (664)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module TextureAlignMode (662)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module BspMode (660)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module GeometryMode (658)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (656)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module IKRigEditor (654)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (652)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module ControlRigEditor (650)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module AnimationEditor (649)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module Kismet (647)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module KismetWidgets (646)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module SmartSnapping (642)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module SessionServices (640)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module MeshPaint (638)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (636)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module PlacementMode (635)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (628)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module ActorPickerMode (626)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module LiveCoding (624)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (622)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module MovieScene (620)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (618)
+[2023.04.04-10.54.22:420][  0]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (616)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module AIModule (614)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module AITestSuite (613)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module NavigationSystem (611)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (608)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (606)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module TypedElementFramework (604)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module MegascansPlugin (600)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module Bridge (598)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (596)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangePipelines (592)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeExport (590)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeMessages (588)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeImport (586)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeNodes (584)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (582)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (580)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module InterchangeEditor (578)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (576)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (574)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (572)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (570)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2023.04.04-10.54.22:426][  0]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (560)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (556)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ModelingOperators (554)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (552)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ModelingComponents (550)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (548)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MeshModelingTools (546)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (544)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GooglePAD (542)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module DynamicMesh (540)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (538)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (536)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (534)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (532)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module CableComponent (530)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AssetTags (524)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (520)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtils (518)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AndroidPermission (516)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (514)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (512)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module TemplateSequence (508)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (506)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module SequencerScripting (504)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MediaCompositing (502)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module VisualStudioTools (500)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AlembicImporter (498)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AlembicLibrary (497)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryCache (496)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (495)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (490)
+[2023.04.04-10.54.22:427][  0]LogOpenImageDenoise: OIDN shutting down
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (488)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (486)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (484)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (482)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MeshLODToolset (480)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (478)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (477)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (474)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (472)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (470)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (468)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (464)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ChaosNiagara (462)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module FractureEditor (460)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (458)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (456)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AutomationUtils (454)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (452)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (450)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (448)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module StylusInput (446)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (444)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (442)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module PluginBrowser (440)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (438)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (436)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (434)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (432)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module EditorDebugTools (430)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (428)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (426)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module CurveEditorTools (424)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (422)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module CryptoKeys (420)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module UObjectPlugin (418)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (416)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (414)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module PluginUtils (412)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (410)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module GitSourceControl (408)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (406)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (404)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (402)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module ControlRigSpline (400)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (398)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (396)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (394)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (392)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module Paper2DEditor (390)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (388)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (386)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module TechGD (384)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (382)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (381)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (378)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module SoundFields (376)
+[2023.04.04-10.54.22:427][  0]LogModuleManager: Shutting down and abandoning module SignificanceManager (374)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (372)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (370)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (368)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module GameplayAbilitiesEditor (366)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module GameplayAbilities (364)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module GameplayDebugger (363)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module DataRegistryEditor (360)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module DataRegistry (358)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module ActorSequence (356)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module UdpMessaging (354)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module TcpMessaging (352)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (350)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module PBIK (348)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module FullBodyIK (346)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (344)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module Niagara (342)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module SignalProcessing (341)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module NiagaraEditor (339)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module NiagaraCore (336)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (334)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (332)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module FacialAnimation (330)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module DataValidation (328)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (326)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (324)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (314)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module IKRig (312)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (310)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module ControlRig (308)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module LevelSequence (307)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (304)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module Paper2D (302)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module AndroidFileServer (300)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (298)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module PacketHandler (296)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module AnimationDataController (294)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (292)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (290)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module MediaAssets (288)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module Overlay (286)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module OverlayEditor (285)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module Blutility (282)
+[2023.04.04-10.54.22:428][  0]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2023.04.04-10.54.22:429][  0]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2023.04.04-10.54.22:429][  0]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (278)
+[2023.04.04-10.54.22:429][  0]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (276)
+[2023.04.04-10.54.22:429][  0]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2023.04.04-10.54.22:429][  0]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2023.04.04-10.54.22:429][  0]LogModuleManager: Shutting down and abandoning module ContentBrowser (269)
+[2023.04.04-10.54.22:429][  0]LogModuleManager: Shutting down and abandoning module ToolMenus (268)
+[2023.04.04-10.54.22:429][  0]LogModuleManager: Shutting down and abandoning module CollectionManager (266)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module ContentBrowserData (264)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module IntroTutorials (260)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module VREditor (258)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module StringTableEditor (256)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (254)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (252)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module FunctionalTesting (250)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (248)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (247)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module UMG (244)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module UMGEditor (243)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module SlateReflector (238)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module Slate (236)
+[2023.04.04-10.54.22:430][  0]LogModuleManager: Shutting down and abandoning module SlateCore (234)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (232)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module Messaging (224)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (222)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (220)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module Core (216)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module MaterialEditor (214)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module Settings (213)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module MovieSceneTools (210)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module CurveEditor (209)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module Sequencer (207)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module EditorStyle (206)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module KismetCompiler (202)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module MeshBuilder (200)
+[2023.04.04-10.54.22:431][  0]LogModuleManager: Shutting down and abandoning module NaniteBuilder (198)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (179)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2023.04.04-10.54.22:432][  0]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TargetPlatform (172)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (171)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (167)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module AudioFormatBink (161)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (159)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (157)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (155)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (153)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (151)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (149)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (147)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (145)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (143)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (141)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TextureFormat (139)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (138)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (136)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (134)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (132)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (130)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (128)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module ImageWrapper (127)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module TurnkeySupport (123)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module NullDrv (120)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (118)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (117)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module GeometryCore (113)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (102)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (100)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module HairStrandsCore (98)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2023.04.04-10.54.22:433][  0]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2023.04.04-10.54.22:435][  0]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2023.04.04-10.54.22:435][  0]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2023.04.04-10.54.22:450][  0]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2023.04.04-10.54.22:459][  0]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2023.04.04-10.54.22:459][  0]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2023.04.04-10.54.22:459][  0]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.04.04-10.54.22:461][  0]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module ChaosCloth (64)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module PixWinPlugin (58)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module AISupportModule (56)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2023.04.04-10.54.22:462][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.04.04-10.54.22:462][  0]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2023.04.04-10.54.22:463][  0]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.04.04-10.54.22:471][  0]LogExit: Exiting.
+[2023.04.04-10.54.22:483][  0]Log file closed, 04/04/23 14:54:22

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\unrealeditor\\inc\\techgd\\techgd.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\techgdeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\unrealeditor\\development\\techgd\\definitions.techgd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

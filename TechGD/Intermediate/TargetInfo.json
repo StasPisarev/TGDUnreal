@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TechGD",
+			"Path": "C:\\Work\\UnrealEnPr\\TGDUnreal\\TechGD\\Source\\TechGD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TechGDEditor",
+			"Path": "C:\\Work\\UnrealEnPr\\TGDUnreal\\TechGD\\Source\\TechGDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
