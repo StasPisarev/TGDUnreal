@@ -9,6 +9,8 @@
 #include "Abilities/GameplayAbility.h"
 #include "BaseGASCharacter.generated.h"
 
+class UBaseAttributeSet;
+
 UCLASS()
 class TECHGD_API ABaseGASCharacter : public ACharacter, public IAbilitySystemInterface
 {
@@ -36,4 +38,30 @@ public:
 		void InitializeAbility(TSubclassOf<UGameplayAbility> AbilityToGet, int32 AbilityLevel);
 
 	virtual UAbilitySystemComponent* GetAbilitySystemComponent() const;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "BaseCharacter")
+		const class UBaseAttributeSet* BaseAttributeSetComp;
+
+	UFUNCTION(BlueprintPure, Category = "BaseCharacter")
+		void GetHealthValues(float& Health, float& MaxHealth);
+
+	UFUNCTION(BlueprintPure, Category = "BaseCharacter")
+		void GetManaValues(float& Mana, float& MaxMana);
+
+	UFUNCTION(BlueprintPure, Category = "BaseCharacter")
+		void GetStaminaValues(float& Stamina, float& MaxStamina);
+
+	void OnHealthChangedNative(const FOnAttributeChangeData& Data);
+	void OnManaChangedNative(const FOnAttributeChangeData& Data);
+	void OnStaminaChangedNative(const FOnAttributeChangeData& Data);
+
+	UFUNCTION(BlueprintImplementableEvent, Category = "BaseCharacter")
+		void OnHealthChanged(float OldValue, float NewValue);
+
+	UFUNCTION(BlueprintImplementableEvent, Category = "BaseCharacter")
+		void OnManaChanged(float OldValue, float NewValue);
+
+	UFUNCTION(BlueprintImplementableEvent, Category = "BaseCharacter")
+		void OnStaminaChanged(float OldValue, float NewValue);
+
 };

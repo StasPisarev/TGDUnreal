@@ -14,18 +14,43 @@ class UGameplayAbility;
 #endif
 #define TECHGD_BaseGASCharacter_generated_h
 
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_SPARSE_DATA
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_RPC_WRAPPERS \
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_SPARSE_DATA
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execGetStaminaValues); \
+	DECLARE_FUNCTION(execGetManaValues); \
+	DECLARE_FUNCTION(execGetHealthValues); \
 	DECLARE_FUNCTION(execInitializeAbility);
 
 
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execGetStaminaValues); \
+	DECLARE_FUNCTION(execGetManaValues); \
+	DECLARE_FUNCTION(execGetHealthValues); \
 	DECLARE_FUNCTION(execInitializeAbility);
 
 
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_EVENT_PARMS \
+	struct BaseGASCharacter_eventOnHealthChanged_Parms \
+	{ \
+		float OldValue; \
+		float NewValue; \
+	}; \
+	struct BaseGASCharacter_eventOnManaChanged_Parms \
+	{ \
+		float OldValue; \
+		float NewValue; \
+	}; \
+	struct BaseGASCharacter_eventOnStaminaChanged_Parms \
+	{ \
+		float OldValue; \
+		float NewValue; \
+	};
+
+
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_CALLBACK_WRAPPERS
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABaseGASCharacter(); \
 	friend struct Z_Construct_UClass_ABaseGASCharacter_Statics; \
@@ -35,7 +60,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<ABaseGASCharacter*>(this); }
 
 
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_INCLASS \
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesABaseGASCharacter(); \
 	friend struct Z_Construct_UClass_ABaseGASCharacter_Statics; \
@@ -45,7 +70,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<ABaseGASCharacter*>(this); }
 
 
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_STANDARD_CONSTRUCTORS \
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ABaseGASCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABaseGASCharacter) \
@@ -58,7 +83,7 @@ private: \
 public:
 
 
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ABaseGASCharacter(ABaseGASCharacter&&); \
@@ -69,25 +94,30 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ABaseGASCharacter)
 
 
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_12_PROLOG
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_GENERATED_BODY_LEGACY \
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_14_PROLOG \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_EVENT_PARMS
+
+
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_SPARSE_DATA \
-	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_RPC_WRAPPERS \
-	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_INCLASS \
-	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_STANDARD_CONSTRUCTORS \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_SPARSE_DATA \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_RPC_WRAPPERS \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_CALLBACK_WRAPPERS \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_INCLASS \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_GENERATED_BODY \
+#define FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_SPARSE_DATA \
-	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_INCLASS_NO_PURE_DECLS \
-	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_15_ENHANCED_CONSTRUCTORS \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_SPARSE_DATA \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_CALLBACK_WRAPPERS \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_INCLASS_NO_PURE_DECLS \
+	FID_TechGD_Source_TechGD_Public_BaseGASCharacter_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

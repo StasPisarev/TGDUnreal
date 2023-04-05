@@ -71,7 +71,9 @@
             "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\abilitysystemcomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\abilitysysteminterface.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\abilitysysteminterface.generated.h",
-            "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\unrealeditor\\inc\\techgd\\basegascharacter.generated.h"
+            "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\unrealeditor\\inc\\techgd\\basegascharacter.generated.h",
+            "c:\\work\\unrealenpr\\tgdunreal\\techgd\\source\\techgd\\public\\baseattributeset.h",
+            "c:\\work\\unrealenpr\\tgdunreal\\techgd\\intermediate\\build\\win64\\unrealeditor\\inc\\techgd\\baseattributeset.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

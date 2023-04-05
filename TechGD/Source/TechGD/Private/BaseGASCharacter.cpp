@@ -2,6 +2,7 @@
 
 
 #include "BaseGASCharacter.h"
+#include "BaseAttributeSet.h"
 
 // Sets default values
 ABaseGASCharacter::ABaseGASCharacter()
@@ -17,6 +18,16 @@ ABaseGASCharacter::ABaseGASCharacter()
 void ABaseGASCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+
+	if (AbilitySystemComp) {
+		BaseAttributeSetComp = AbilitySystemComp->GetSet<UBaseAttributeSet>();
+
+		AbilitySystemComp->GetGameplayAttributeValueChangeDelegate(BaseAttributeSetComp->GetHealthAttribute()).AddUObject(this, &ABaseGASCharacter::OnHealthChangedNative);
+
+		AbilitySystemComp->GetGameplayAttributeValueChangeDelegate(BaseAttributeSetComp->GetManaAttribute()).AddUObject(this, &ABaseGASCharacter::OnManaChangedNative);
+
+		AbilitySystemComp->GetGameplayAttributeValueChangeDelegate(BaseAttributeSetComp->GetStaminaAttribute()).AddUObject(this, &ABaseGASCharacter::OnStaminaChangedNative);
+	}
 	
 }
 
@@ -48,5 +59,38 @@ void ABaseGASCharacter::InitializeAbility(TSubclassOf<UGameplayAbility> AbilityT
 UAbilitySystemComponent* ABaseGASCharacter::GetAbilitySystemComponent() const
 {
 	return AbilitySystemComp;
+}
+
+void ABaseGASCharacter::GetHealthValues(float& Health, float& MaxHealth)
+{
+	Health = BaseAttributeSetComp->GetHealth();
+	MaxHealth = BaseAttributeSetComp->GetMaxHealth();
+}
+
+void ABaseGASCharacter::GetManaValues(float& Mana, float& MaxMana)
+{
+	Mana = BaseAttributeSetComp->GetMana();
+	MaxMana = BaseAttributeSetComp->GetMaxMana();
+}
+
+void ABaseGASCharacter::GetStaminaValues(float& Stamina, float& MaxStamina)
+{
+	Stamina = BaseAttributeSetComp->GetStamina();
+	MaxStamina = BaseAttributeSetComp->GetMaxStamina();
+}
+
+void ABaseGASCharacter::OnHealthChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnHealthChanged(Data.OldValue, Data.NewValue);
+}
+
+void ABaseGASCharacter::OnManaChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnManaChanged(Data.OldValue, Data.NewValue);
+}
+
+void ABaseGASCharacter::OnStaminaChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnStaminaChanged(Data.OldValue, Data.NewValue);
 }
 

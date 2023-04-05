@@ -50,6 +50,9 @@
     <Filter Include="Source\TechGD\Private">
       <UniqueIdentifier>{581569D0-E3C8-3FDB-ADFA-B9560B8EA0AA}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TechGD\Private\BaseAttributeSet.cpp">
+      <Filter>Source\TechGD\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\TechGD\Private\BaseGASCharacter.cpp">
       <Filter>Source\TechGD\Private</Filter>
     </ClCompile>
@@ -59,6 +62,9 @@
     <Filter Include="Source\TechGD\Public">
       <UniqueIdentifier>{2AB48728-4B91-3E56-BDB8-51A24C3D2251}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\TechGD\Public\BaseAttributeSet.h">
+      <Filter>Source\TechGD\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\TechGD\Public\BaseGASCharacter.h">
       <Filter>Source\TechGD\Public</Filter>
     </ClInclude>
