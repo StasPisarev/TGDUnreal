@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Work\\UnrealEnPr\\TGDUnreal\\TechGD\\Source\\TechGD\\TechGD.Build.cs",
-		"C:\\Work\\UnrealEnPr\\TGDUnreal\\TechGD\\Source\\TechGD.Target.cs",
-		"C:\\Work\\UnrealEnPr\\TGDUnreal\\TechGD\\Source\\TechGDEditor.Target.cs"
-	],
-	"EngineVersion": "5.0.3"
-}
